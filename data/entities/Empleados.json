@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "personaId": 1,
+    "cargo": "Analista Financiero",
+    "salario": 8750573,
+    "area": "Finanzas"
+  },
+  {
+    "id": 2,
+    "personaId": 2,
+    "cargo": "Gerente de Proyectos",
+    "salario": 4050157,
+    "area": "Ingeniería"
+  },
+  {
+    "id": 3,
+    "personaId": 3,
+    "cargo": "QA Tester",
+    "salario": 4193354,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 4,
+    "personaId": 4,
+    "cargo": "Ingeniero de Machine Learning",
+    "salario": 3130636,
+    "area": "Tecnología"
+  },
+  {
+    "id": 5,
+    "personaId": 5,
+    "cargo": "Diseñador Gráfico",
+    "salario": 8610564,
+    "area": "Compliance"
+  },
+  {
+    "id": 6,
+    "personaId": 6,
+    "cargo": "Coordinador Administrativo",
+    "salario": 3626518,
+    "area": "Legal"
+  },
+  {
+    "id": 7,
+    "personaId": 7,
+    "cargo": "Analista de Recursos Humanos",
+    "salario": 11576455,
+    "area": "Salud"
+  },
+  {
+    "id": 8,
+    "personaId": 8,
+    "cargo": "QA Automation",
+    "salario": 4746762,
+    "area": "Compliance"
+  },
+  {
+    "id": 9,
+    "personaId": 9,
+    "cargo": "Controller Financiero",
+    "salario": 10592053,
+    "area": "Marketing"
+  },
+  {
+    "id": 10,
+    "personaId": 10,
+    "cargo": "Arquitecto de Software",
+    "salario": 3166156,
+    "area": "Logística"
+  },
+  {
+    "id": 11,
+    "personaId": 11,
+    "cargo": "Desarrollador Senior",
+    "salario": 10544525,
+    "area": "Administración"
+  },
+  {
+    "id": 12,
+    "personaId": 12,
+    "cargo": "Diseñador Gráfico",
+    "salario": 3853517,
+    "area": "Diseño"
+  },
+  {
+    "id": 13,
+    "personaId": 13,
+    "cargo": "Diseñador UX/UI",
+    "salario": 6508396,
+    "area": "Contabilidad"
+  },
+  {
+    "id": 14,
+    "personaId": 14,
+    "cargo": "Community Manager",
+    "salario": 7230044,
+    "area": "Desarrollo"
+  },
+  {
+    "id": 15,
+    "personaId": 15,
+    "cargo": "Scrum Master",
+    "salario": 2291943,
+    "area": "Comunicaciones"
+  },
+  {
+    "id": 16,
+    "personaId": 16,
+    "cargo": "Gerente de Proyectos",
+    "salario": 8194011,
+    "area": "Comunicaciones"
+  },
+  {
+    "id": 17,
+    "personaId": 17,
+    "cargo": "Asistente Legal",
+    "salario": 8001636,
+    "area": "Prevención"
+  },
+  {
+    "id": 18,
+    "personaId": 18,
+    "cargo": "Product Owner",
+    "salario": 11210600,
+    "area": "Jurídico"
+  },
+  {
+    "id": 19,
+    "personaId": 19,
+    "cargo": "Médico",
+    "salario": 11596573,
+    "area": "Tesorería"
+  },
+  {
+    "id": 20,
+    "personaId": 20,
+    "cargo": "Gerente Comercial",
+    "salario": 11302237,
+    "area": "Diseño"
+  },
+  {
+    "id": 21,
+    "personaId": 21,
+    "cargo": "Gerente Comercial",
+    "salario": 3626934,
+    "area": "Administración"
+  },
+  {
+    "id": 22,
+    "personaId": 22,
+    "cargo": "QA Automation",
+    "salario": 9940419,
+    "area": "Operaciones"
+  },
+  {
+    "id": 23,
+    "personaId": 23,
+    "cargo": "Diseñador UX/UI",
+    "salario": 9876689,
+    "area": "Auditoría"
+  },
+  {
+    "id": 24,
+    "personaId": 24,
+    "cargo": "Ingeniero Industrial",
+    "salario": 6699819,
+    "area": "Prevención"
+  },
+  {
+    "id": 25,
+    "personaId": 25,
+    "cargo": "Diseñador Gráfico",
+    "salario": 4853843,
+    "area": "Prevención"
+  },
+  {
+    "id": 26,
+    "personaId": 26,
+    "cargo": "Tesorero",
+    "salario": 7654212,
+    "area": "Tecnología"
+  },
+  {
+    "id": 27,
+    "personaId": 27,
+    "cargo": "Diseñador UX/UI",
+    "salario": 11543811,
+    "area": "Logística"
+  },
+  {
+    "id": 28,
+    "personaId": 28,
+    "cargo": "Ingeniero Industrial",
+    "salario": 2427845,
+    "area": "Bienestar"
+  },
+  {
+    "id": 29,
+    "personaId": 29,
+    "cargo": "Diseñador UX/UI",
+    "salario": 4780605,
+    "area": "Bienestar"
+  },
+  {
+    "id": 30,
+    "personaId": 30,
+    "cargo": "Enfermero",
+    "salario": 7218769,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 31,
+    "personaId": 31,
+    "cargo": "Gerente de Proyectos",
+    "salario": 5525258,
+    "area": "Operaciones"
+  },
+  {
+    "id": 32,
+    "personaId": 32,
+    "cargo": "Analista de Recursos Humanos",
+    "salario": 9106159,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 33,
+    "personaId": 33,
+    "cargo": "Psicólogo",
+    "salario": 9022295,
+    "area": "Desarrollo"
+  },
+  {
+    "id": 34,
+    "personaId": 34,
+    "cargo": "Auditor",
+    "salario": 11198884,
+    "area": "Finanzas"
+  },
+  {
+    "id": 35,
+    "personaId": 35,
+    "cargo": "Administrador de Sistemas",
+    "salario": 7366747,
+    "area": "Marketing"
+  },
+  {
+    "id": 36,
+    "personaId": 36,
+    "cargo": "Asistente Legal",
+    "salario": 10941721,
+    "area": "Contabilidad"
+  },
+  {
+    "id": 37,
+    "personaId": 37,
+    "cargo": "Asistente Ejecutivo",
+    "salario": 4881201,
+    "area": "Publicidad"
+  },
+  {
+    "id": 38,
+    "personaId": 38,
+    "cargo": "Desarrollador Junior",
+    "salario": 3804046,
+    "area": "Diseño"
+  },
+  {
+    "id": 39,
+    "personaId": 39,
+    "cargo": "Scrum Master",
+    "salario": 4657099,
+    "area": "Soporte"
+  },
+  {
+    "id": 40,
+    "personaId": 40,
+    "cargo": "Gerente de RRHH",
+    "salario": 11085932,
+    "area": "Logística"
+  },
+  {
+    "id": 41,
+    "personaId": 41,
+    "cargo": "QA Tester",
+    "salario": 4613799,
+    "area": "Marketing"
+  },
+  {
+    "id": 42,
+    "personaId": 42,
+    "cargo": "Content Manager",
+    "salario": 10047863,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 43,
+    "personaId": 43,
+    "cargo": "Ingeniero Eléctrico",
+    "salario": 4802331,
+    "area": "Comunicaciones"
+  },
+  {
+    "id": 44,
+    "personaId": 44,
+    "cargo": "Terapeuta",
+    "salario": 2119418,
+    "area": "Legal"
+  },
+  {
+    "id": 45,
+    "personaId": 45,
+    "cargo": "Controller Financiero",
+    "salario": 2662064,
+    "area": "Compliance"
+  },
+  {
+    "id": 46,
+    "personaId": 46,
+    "cargo": "Especialista en Nómina",
+    "salario": 11618951,
+    "area": "Finanzas"
+  },
+  {
+    "id": 47,
+    "personaId": 47,
+    "cargo": "QA Automation",
+    "salario": 9451976,
+    "area": "Infraestructura"
+  },
+  {
+    "id": 48,
+    "personaId": 48,
+    "cargo": "Abogado Corporativo",
+    "salario": 2024582,
+    "area": "Infraestructura"
+  },
+  {
+    "id": 49,
+    "personaId": 49,
+    "cargo": "Arquitecto",
+    "salario": 6956567,
+    "area": "Capacitación"
+  },
+  {
+    "id": 50,
+    "personaId": 50,
+    "cargo": "Content Manager",
+    "salario": 5801306,
+    "area": "Ingeniería"
+  },
+  {
+    "id": 51,
+    "personaId": 51,
+    "cargo": "Ingeniero Civil",
+    "salario": 11869631,
+    "area": "Administración"
+  },
+  {
+    "id": 52,
+    "personaId": 52,
+    "cargo": "Terapeuta",
+    "salario": 9836932,
+    "area": "Operaciones"
+  },
+  {
+    "id": 53,
+    "personaId": 53,
+    "cargo": "Gerente de Marketing",
+    "salario": 11542859,
+    "area": "Infraestructura"
+  },
+  {
+    "id": 54,
+    "personaId": 54,
+    "cargo": "Content Manager",
+    "salario": 5486269,
+    "area": "Contabilidad"
+  },
+  {
+    "id": 55,
+    "personaId": 55,
+    "cargo": "Reclutador",
+    "salario": 6080010,
+    "area": "Operaciones"
+  },
+  {
+    "id": 56,
+    "personaId": 56,
+    "cargo": "Terapeuta",
+    "salario": 4650519,
+    "area": "Calidad"
+  },
+  {
+    "id": 57,
+    "personaId": 57,
+    "cargo": "Psicólogo",
+    "salario": 5685927,
+    "area": "Contabilidad"
+  },
+  {
+    "id": 58,
+    "personaId": 58,
+    "cargo": "Coordinador Administrativo",
+    "salario": 2007644,
+    "area": "Logística"
+  },
+  {
+    "id": 59,
+    "personaId": 59,
+    "cargo": "DevOps Engineer",
+    "salario": 3487774,
+    "area": "Marketing"
+  },
+  {
+    "id": 60,
+    "personaId": 60,
+    "cargo": "Arquitecto",
+    "salario": 6704049,
+    "area": "Ventas"
+  },
+  {
+    "id": 61,
+    "personaId": 61,
+    "cargo": "Especialista SEO",
+    "salario": 11174079,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 62,
+    "personaId": 62,
+    "cargo": "Administrador de Sistemas",
+    "salario": 4590428,
+    "area": "Prevención"
+  },
+  {
+    "id": 63,
+    "personaId": 63,
+    "cargo": "Abogado Corporativo",
+    "salario": 5012043,
+    "area": "Tesorería"
+  },
+  {
+    "id": 64,
+    "personaId": 64,
+    "cargo": "Gerente Comercial",
+    "salario": 10984372,
+    "area": "Desarrollo"
+  },
+  {
+    "id": 65,
+    "personaId": 65,
+    "cargo": "DevOps Engineer",
+    "salario": 6438535,
+    "area": "Contabilidad"
+  },
+  {
+    "id": 66,
+    "personaId": 66,
+    "cargo": "Ingeniero de Machine Learning",
+    "salario": 11055257,
+    "area": "Comercial"
+  },
+  {
+    "id": 67,
+    "personaId": 67,
+    "cargo": "Terapeuta",
+    "salario": 10972400,
+    "area": "Ingeniería"
+  },
+  {
+    "id": 68,
+    "personaId": 68,
+    "cargo": "Enfermero",
+    "salario": 10249493,
+    "area": "Diseño"
+  },
+  {
+    "id": 69,
+    "personaId": 69,
+    "cargo": "Médico",
+    "salario": 7939906,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 70,
+    "personaId": 70,
+    "cargo": "Desarrollador Senior",
+    "salario": 10663989,
+    "area": "Administración"
+  },
+  {
+    "id": 71,
+    "personaId": 71,
+    "cargo": "Desarrollador Junior",
+    "salario": 2439107,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 72,
+    "personaId": 72,
+    "cargo": "Desarrollador Junior",
+    "salario": 2937861,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 73,
+    "personaId": 73,
+    "cargo": "Ingeniero Civil",
+    "salario": 5167658,
+    "area": "Tesorería"
+  },
+  {
+    "id": 74,
+    "personaId": 74,
+    "cargo": "Gerente Comercial",
+    "salario": 3248495,
+    "area": "Atención al Cliente"
+  },
+  {
+    "id": 75,
+    "personaId": 75,
+    "cargo": "Ingeniero Civil",
+    "salario": 9924152,
+    "area": "Diseño"
+  },
+  {
+    "id": 76,
+    "personaId": 76,
+    "cargo": "Ingeniero Eléctrico",
+    "salario": 8765069,
+    "area": "Tesorería"
+  },
+  {
+    "id": 77,
+    "personaId": 77,
+    "cargo": "Product Owner",
+    "salario": 7465692,
+    "area": "Administración"
+  },
+  {
+    "id": 78,
+    "personaId": 78,
+    "cargo": "Terapeuta",
+    "salario": 8997837,
+    "area": "Diseño"
+  },
+  {
+    "id": 79,
+    "personaId": 79,
+    "cargo": "Tesorero",
+    "salario": 6005547,
+    "area": "Jurídico"
+  },
+  {
+    "id": 80,
+    "personaId": 80,
+    "cargo": "Diseñador UX/UI",
+    "salario": 7281534,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 81,
+    "personaId": 81,
+    "cargo": "Especialista en Nómina",
+    "salario": 5018042,
+    "area": "Legal"
+  },
+  {
+    "id": 82,
+    "personaId": 82,
+    "cargo": "Analista de Recursos Humanos",
+    "salario": 8406390,
+    "area": "Auditoría"
+  },
+  {
+    "id": 83,
+    "personaId": 83,
+    "cargo": "Analista de Marketing",
+    "salario": 10035439,
+    "area": "Tesorería"
+  },
+  {
+    "id": 84,
+    "personaId": 84,
+    "cargo": "Enfermero",
+    "salario": 9220604,
+    "area": "Administración"
+  },
+  {
+    "id": 85,
+    "personaId": 85,
+    "cargo": "Analista Financiero",
+    "salario": 5230006,
+    "area": "Compliance"
+  },
+  {
+    "id": 86,
+    "personaId": 86,
+    "cargo": "Enfermero",
+    "salario": 7226751,
+    "area": "Prevención"
+  },
+  {
+    "id": 87,
+    "personaId": 87,
+    "cargo": "Controller Financiero",
+    "salario": 7607691,
+    "area": "Legal"
+  },
+  {
+    "id": 88,
+    "personaId": 88,
+    "cargo": "Product Owner",
+    "salario": 8497831,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 89,
+    "personaId": 89,
+    "cargo": "Asistente Ejecutivo",
+    "salario": 2810046,
+    "area": "Tecnología"
+  },
+  {
+    "id": 90,
+    "personaId": 90,
+    "cargo": "Ingeniero Civil",
+    "salario": 4392702,
+    "area": "Prevención"
+  },
+  {
+    "id": 91,
+    "personaId": 91,
+    "cargo": "Arquitecto de Software",
+    "salario": 8776735,
+    "area": "Ventas"
+  },
+  {
+    "id": 92,
+    "personaId": 92,
+    "cargo": "Enfermero",
+    "salario": 7362483,
+    "area": "Administración"
+  },
+  {
+    "id": 93,
+    "personaId": 93,
+    "cargo": "Desarrollador Senior",
+    "salario": 10232553,
+    "area": "Recursos Humanos"
+  },
+  {
+    "id": 94,
+    "personaId": 94,
+    "cargo": "Gerente de Proyectos",
+    "salario": 3727224,
+    "area": "Atención al Cliente"
+  },
+  {
+    "id": 95,
+    "personaId": 95,
+    "cargo": "Ingeniero de Machine Learning",
+    "salario": 5676294,
+    "area": "Soporte"
+  },
+  {
+    "id": 96,
+    "personaId": 96,
+    "cargo": "Controller Financiero",
+    "salario": 10352446,
+    "area": "Jurídico"
+  },
+  {
+    "id": 97,
+    "personaId": 97,
+    "cargo": "Arquitecto de Software",
+    "salario": 11348623,
+    "area": "Operaciones"
+  },
+  {
+    "id": 98,
+    "personaId": 98,
+    "cargo": "Ingeniero Eléctrico",
+    "salario": 11286162,
+    "area": "Bienestar"
+  },
+  {
+    "id": 99,
+    "personaId": 99,
+    "cargo": "Analista Financiero",
+    "salario": 7946596,
+    "area": "Tecnología"
+  },
+  {
+    "id": 100,
+    "personaId": 100,
+    "cargo": "Asistente Legal",
+    "salario": 9542776,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 101,
+    "personaId": 101,
+    "cargo": "Controller Financiero",
+    "salario": 2435411,
+    "area": "Marketing"
+  },
+  {
+    "id": 102,
+    "personaId": 102,
+    "cargo": "Reclutador",
+    "salario": 7515112,
+    "area": "Producción"
+  },
+  {
+    "id": 103,
+    "personaId": 103,
+    "cargo": "Gerente de RRHH",
+    "salario": 2978614,
+    "area": "Capacitación"
+  },
+  {
+    "id": 104,
+    "personaId": 104,
+    "cargo": "Asistente Ejecutivo",
+    "salario": 10302849,
+    "area": "Operaciones"
+  },
+  {
+    "id": 105,
+    "personaId": 105,
+    "cargo": "Auditor",
+    "salario": 2717767,
+    "area": "Soporte"
+  },
+  {
+    "id": 106,
+    "personaId": 106,
+    "cargo": "Scrum Master",
+    "salario": 6224862,
+    "area": "Tecnología"
+  },
+  {
+    "id": 107,
+    "personaId": 107,
+    "cargo": "Terapeuta",
+    "salario": 6536231,
+    "area": "Operaciones"
+  },
+  {
+    "id": 108,
+    "personaId": 108,
+    "cargo": "Coordinador Administrativo",
+    "salario": 10698658,
+    "area": "Jurídico"
+  },
+  {
+    "id": 109,
+    "personaId": 109,
+    "cargo": "QA Automation",
+    "salario": 6057053,
+    "area": "Producción"
+  },
+  {
+    "id": 110,
+    "personaId": 110,
+    "cargo": "Médico",
+    "salario": 11927249,
+    "area": "Comunicaciones"
+  },
+  {
+    "id": 111,
+    "personaId": 111,
+    "cargo": "Content Manager",
+    "salario": 11930488,
+    "area": "Publicidad"
+  },
+  {
+    "id": 112,
+    "personaId": 112,
+    "cargo": "Especialista en Nómina",
+    "salario": 11097451,
+    "area": "Jurídico"
+  },
+  {
+    "id": 113,
+    "personaId": 113,
+    "cargo": "DevOps Engineer",
+    "salario": 4362230,
+    "area": "Administración"
+  },
+  {
+    "id": 114,
+    "personaId": 114,
+    "cargo": "Administrador de Sistemas",
+    "salario": 2169703,
+    "area": "Tesorería"
+  },
+  {
+    "id": 115,
+    "personaId": 115,
+    "cargo": "Auditor",
+    "salario": 11948218,
+    "area": "Marketing"
+  },
+  {
+    "id": 116,
+    "personaId": 116,
+    "cargo": "Tesorero",
+    "salario": 3582740,
+    "area": "Salud"
+  },
+  {
+    "id": 117,
+    "personaId": 117,
+    "cargo": "Ejecutivo de Ventas",
+    "salario": 5479161,
+    "area": "Producción"
+  },
+  {
+    "id": 118,
+    "personaId": 118,
+    "cargo": "Analista de Recursos Humanos",
+    "salario": 10763924,
+    "area": "Soporte"
+  },
+  {
+    "id": 119,
+    "personaId": 119,
+    "cargo": "Especialista SEO",
+    "salario": 9290643,
+    "area": "Producción"
+  },
+  {
+    "id": 120,
+    "personaId": 120,
+    "cargo": "Nutricionista",
+    "salario": 6588291,
+    "area": "Finanzas"
+  },
+  {
+    "id": 121,
+    "personaId": 121,
+    "cargo": "Analista Financiero",
+    "salario": 2548658,
+    "area": "Bienestar"
+  },
+  {
+    "id": 122,
+    "personaId": 122,
+    "cargo": "Diseñador UX/UI",
+    "salario": 9208333,
+    "area": "Tecnología"
+  },
+  {
+    "id": 123,
+    "personaId": 123,
+    "cargo": "Ejecutivo de Ventas",
+    "salario": 9291307,
+    "area": "Logística"
+  },
+  {
+    "id": 124,
+    "personaId": 124,
+    "cargo": "Asistente Ejecutivo",
+    "salario": 11621536,
+    "area": "Logística"
+  },
+  {
+    "id": 125,
+    "personaId": 125,
+    "cargo": "Tesorero",
+    "salario": 8719444,
+    "area": "Legal"
+  },
+  {
+    "id": 126,
+    "personaId": 126,
+    "cargo": "Arquitecto de Software",
+    "salario": 4594150,
+    "area": "Calidad"
+  },
+  {
+    "id": 127,
+    "personaId": 127,
+    "cargo": "Nutricionista",
+    "salario": 9926130,
+    "area": "Tesorería"
+  },
+  {
+    "id": 128,
+    "personaId": 128,
+    "cargo": "Gerente de Proyectos",
+    "salario": 4994138,
+    "area": "Comercial"
+  },
+  {
+    "id": 129,
+    "personaId": 129,
+    "cargo": "Administrador de Sistemas",
+    "salario": 8488028,
+    "area": "Tecnología"
+  },
+  {
+    "id": 130,
+    "personaId": 130,
+    "cargo": "Especialista SEO",
+    "salario": 9025513,
+    "area": "Desarrollo"
+  },
+  {
+    "id": 131,
+    "personaId": 131,
+    "cargo": "Diseñador UX/UI",
+    "salario": 3866911,
+    "area": "Compliance"
+  },
+  {
+    "id": 132,
+    "personaId": 132,
+    "cargo": "Arquitecto",
+    "salario": 11620336,
+    "area": "Bienestar"
+  },
+  {
+    "id": 133,
+    "personaId": 133,
+    "cargo": "Analista Financiero",
+    "salario": 11181600,
+    "area": "Compliance"
+  },
+  {
+    "id": 134,
+    "personaId": 134,
+    "cargo": "Diseñador Gráfico",
+    "salario": 6245264,
+    "area": "Bienestar"
+  },
+  {
+    "id": 135,
+    "personaId": 135,
+    "cargo": "Científico de Datos",
+    "salario": 3878782,
+    "area": "Recursos Humanos"
+  },
+  {
+    "id": 136,
+    "personaId": 136,
+    "cargo": "Desarrollador Junior",
+    "salario": 10634675,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 137,
+    "personaId": 137,
+    "cargo": "Ingeniero Civil",
+    "salario": 4158839,
+    "area": "Comercial"
+  },
+  {
+    "id": 138,
+    "personaId": 138,
+    "cargo": "Desarrollador Senior",
+    "salario": 5660458,
+    "area": "Jurídico"
+  },
+  {
+    "id": 139,
+    "personaId": 139,
+    "cargo": "Diseñador UX/UI",
+    "salario": 8576442,
+    "area": "Atención al Cliente"
+  },
+  {
+    "id": 140,
+    "personaId": 140,
+    "cargo": "Ingeniero Industrial",
+    "salario": 7994985,
+    "area": "Comercial"
+  },
+  {
+    "id": 141,
+    "personaId": 141,
+    "cargo": "Nutricionista",
+    "salario": 2918435,
+    "area": "Capacitación"
+  },
+  {
+    "id": 142,
+    "personaId": 142,
+    "cargo": "Psicólogo",
+    "salario": 9269794,
+    "area": "Marketing"
+  },
+  {
+    "id": 143,
+    "personaId": 143,
+    "cargo": "Community Manager",
+    "salario": 7222360,
+    "area": "Administración"
+  },
+  {
+    "id": 144,
+    "personaId": 144,
+    "cargo": "Enfermero",
+    "salario": 8314833,
+    "area": "Operaciones"
+  },
+  {
+    "id": 145,
+    "personaId": 145,
+    "cargo": "DevOps Engineer",
+    "salario": 7509162,
+    "area": "Desarrollo"
+  },
+  {
+    "id": 146,
+    "personaId": 146,
+    "cargo": "Auditor",
+    "salario": 10356018,
+    "area": "Tecnología"
+  },
+  {
+    "id": 147,
+    "personaId": 147,
+    "cargo": "Auditor",
+    "salario": 8159091,
+    "area": "Jurídico"
+  },
+  {
+    "id": 148,
+    "personaId": 148,
+    "cargo": "Coordinador Administrativo",
+    "salario": 3489559,
+    "area": "Compliance"
+  },
+  {
+    "id": 149,
+    "personaId": 149,
+    "cargo": "Contador",
+    "salario": 2192656,
+    "area": "Ventas"
+  },
+  {
+    "id": 150,
+    "personaId": 150,
+    "cargo": "Abogado Corporativo",
+    "salario": 4362916,
+    "area": "Comercial"
+  },
+  {
+    "id": 151,
+    "personaId": 151,
+    "cargo": "Diseñador UX/UI",
+    "salario": 3987547,
+    "area": "Calidad"
+  },
+  {
+    "id": 152,
+    "personaId": 152,
+    "cargo": "Gerente de RRHH",
+    "salario": 2905107,
+    "area": "Jurídico"
+  },
+  {
+    "id": 153,
+    "personaId": 153,
+    "cargo": "Controller Financiero",
+    "salario": 3347729,
+    "area": "Bienestar"
+  },
+  {
+    "id": 154,
+    "personaId": 154,
+    "cargo": "Ingeniero Industrial",
+    "salario": 11013638,
+    "area": "Ventas"
+  },
+  {
+    "id": 155,
+    "personaId": 155,
+    "cargo": "DevOps Engineer",
+    "salario": 7667258,
+    "area": "Calidad"
+  },
+  {
+    "id": 156,
+    "personaId": 156,
+    "cargo": "Gerente de RRHH",
+    "salario": 6841889,
+    "area": "Soporte"
+  },
+  {
+    "id": 157,
+    "personaId": 157,
+    "cargo": "Desarrollador Junior",
+    "salario": 4675401,
+    "area": "Finanzas"
+  },
+  {
+    "id": 158,
+    "personaId": 158,
+    "cargo": "Community Manager",
+    "salario": 7202480,
+    "area": "Producción"
+  },
+  {
+    "id": 159,
+    "personaId": 159,
+    "cargo": "Ingeniero Eléctrico",
+    "salario": 10945657,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 160,
+    "personaId": 160,
+    "cargo": "Controller Financiero",
+    "salario": 5897344,
+    "area": "Desarrollo"
+  },
+  {
+    "id": 161,
+    "personaId": 161,
+    "cargo": "Analista de Datos",
+    "salario": 10194914,
+    "area": "Capacitación"
+  },
+  {
+    "id": 162,
+    "personaId": 162,
+    "cargo": "Analista de Recursos Humanos",
+    "salario": 10461993,
+    "area": "Ingeniería"
+  },
+  {
+    "id": 163,
+    "personaId": 163,
+    "cargo": "Content Manager",
+    "salario": 7888269,
+    "area": "Publicidad"
+  },
+  {
+    "id": 164,
+    "personaId": 164,
+    "cargo": "Gerente de Proyectos",
+    "salario": 5354925,
+    "area": "Producción"
+  },
+  {
+    "id": 165,
+    "personaId": 165,
+    "cargo": "Arquitecto",
+    "salario": 7069903,
+    "area": "Marketing"
+  },
+  {
+    "id": 166,
+    "personaId": 166,
+    "cargo": "Analista de Recursos Humanos",
+    "salario": 6673604,
+    "area": "Tecnología"
+  },
+  {
+    "id": 167,
+    "personaId": 167,
+    "cargo": "Gerente de Proyectos",
+    "salario": 11964290,
+    "area": "Operaciones"
+  },
+  {
+    "id": 168,
+    "personaId": 168,
+    "cargo": "Analista de Datos",
+    "salario": 5300968,
+    "area": "Tesorería"
+  },
+  {
+    "id": 169,
+    "personaId": 169,
+    "cargo": "Ingeniero de Machine Learning",
+    "salario": 2455368,
+    "area": "Comercial"
+  },
+  {
+    "id": 170,
+    "personaId": 170,
+    "cargo": "Nutricionista",
+    "salario": 4454325,
+    "area": "Legal"
+  },
+  {
+    "id": 171,
+    "personaId": 171,
+    "cargo": "Arquitecto",
+    "salario": 11822775,
+    "area": "Finanzas"
+  },
+  {
+    "id": 172,
+    "personaId": 172,
+    "cargo": "Asistente Legal",
+    "salario": 3219969,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 173,
+    "personaId": 173,
+    "cargo": "Enfermero",
+    "salario": 9381830,
+    "area": "Compliance"
+  },
+  {
+    "id": 174,
+    "personaId": 174,
+    "cargo": "Contador",
+    "salario": 10638007,
+    "area": "Capacitación"
+  },
+  {
+    "id": 175,
+    "personaId": 175,
+    "cargo": "Analista de Datos",
+    "salario": 4969589,
+    "area": "Talento Humano"
+  },
+  {
+    "id": 176,
+    "personaId": 176,
+    "cargo": "Auditor",
+    "salario": 5141647,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 177,
+    "personaId": 177,
+    "cargo": "Coordinador Administrativo",
+    "salario": 2262626,
+    "area": "Ingeniería"
+  },
+  {
+    "id": 178,
+    "personaId": 178,
+    "cargo": "Nutricionista",
+    "salario": 10746350,
+    "area": "Publicidad"
+  },
+  {
+    "id": 179,
+    "personaId": 179,
+    "cargo": "Diseñador UX/UI",
+    "salario": 7883930,
+    "area": "Prevención"
+  },
+  {
+    "id": 180,
+    "personaId": 180,
+    "cargo": "Desarrollador Senior",
+    "salario": 2149247,
+    "area": "Salud"
+  },
+  {
+    "id": 181,
+    "personaId": 181,
+    "cargo": "Controller Financiero",
+    "salario": 4514160,
+    "area": "Jurídico"
+  },
+  {
+    "id": 182,
+    "personaId": 182,
+    "cargo": "Diseñador UX/UI",
+    "salario": 9453889,
+    "area": "Capacitación"
+  },
+  {
+    "id": 183,
+    "personaId": 183,
+    "cargo": "Controller Financiero",
+    "salario": 7799514,
+    "area": "Compliance"
+  },
+  {
+    "id": 184,
+    "personaId": 184,
+    "cargo": "Terapeuta",
+    "salario": 5174816,
+    "area": "Marketing"
+  },
+  {
+    "id": 185,
+    "personaId": 185,
+    "cargo": "Enfermero",
+    "salario": 6379682,
+    "area": "Ventas"
+  },
+  {
+    "id": 186,
+    "personaId": 186,
+    "cargo": "Ejecutivo de Ventas",
+    "salario": 7149672,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 187,
+    "personaId": 187,
+    "cargo": "Médico",
+    "salario": 7361379,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 188,
+    "personaId": 188,
+    "cargo": "Gerente de RRHH",
+    "salario": 10240807,
+    "area": "Atención al Cliente"
+  },
+  {
+    "id": 189,
+    "personaId": 189,
+    "cargo": "Enfermero",
+    "salario": 8618671,
+    "area": "Publicidad"
+  },
+  {
+    "id": 190,
+    "personaId": 190,
+    "cargo": "Gerente de RRHH",
+    "salario": 7948746,
+    "area": "Jurídico"
+  },
+  {
+    "id": 191,
+    "personaId": 191,
+    "cargo": "Asistente Ejecutivo",
+    "salario": 3593686,
+    "area": "Comunicaciones"
+  },
+  {
+    "id": 192,
+    "personaId": 192,
+    "cargo": "Arquitecto de Software",
+    "salario": 7339381,
+    "area": "Tecnología"
+  },
+  {
+    "id": 193,
+    "personaId": 193,
+    "cargo": "Ejecutivo de Ventas",
+    "salario": 11586900,
+    "area": "Ingeniería"
+  },
+  {
+    "id": 194,
+    "personaId": 194,
+    "cargo": "Arquitecto de Software",
+    "salario": 10623178,
+    "area": "Comercial"
+  },
+  {
+    "id": 195,
+    "personaId": 195,
+    "cargo": "Scrum Master",
+    "salario": 6650950,
+    "area": "Calidad"
+  },
+  {
+    "id": 196,
+    "personaId": 196,
+    "cargo": "QA Automation",
+    "salario": 4367208,
+    "area": "Publicidad"
+  },
+  {
+    "id": 197,
+    "personaId": 197,
+    "cargo": "Gerente de Proyectos",
+    "salario": 11358913,
+    "area": "Seguridad Informática"
+  },
+  {
+    "id": 198,
+    "personaId": 198,
+    "cargo": "Coordinador Administrativo",
+    "salario": 8672272,
+    "area": "Desarrollo"
+  },
+  {
+    "id": 199,
+    "personaId": 199,
+    "cargo": "Científico de Datos",
+    "salario": 8399872,
+    "area": "Auditoría"
+  },
+  {
+    "id": 200,
+    "personaId": 200,
+    "cargo": "Enfermero",
+    "salario": 11269987,
+    "area": "Administración"
+  }
+]

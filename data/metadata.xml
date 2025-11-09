@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Edmx xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx" Version="4.0">
+	<DataServices>
+		<Schema xmlns="http://docs.oasis-open.org/odata/ns/edm" Namespace="Mock.Models">
+			<!-- Entidad TipoDocumento -->
+			<EntityType Name="TipoDocumento">
+				<Key>
+					<PropertyRef Name="id" />
+				</Key>
+				<Property Name="id" Type="Edm.Int32" Nullable="false" />
+				<Property Name="codigo" Type="Edm.String" />
+				<Property Name="descripcion" Type="Edm.String" />
+			</EntityType>
+			<!-- Entidad Persona -->
+			<EntityType Name="Persona">
+				<Key>
+					<PropertyRef Name="id" />
+				</Key>
+				<Property Name="id" Type="Edm.Int32" Nullable="false" />
+				<Property Name="tipoDocumentoId" Type="Edm.Int32" />
+				<Property Name="numeroDocumento" Type="Edm.Int32" Nullable="false" />
+				<Property Name="nombre" Type="Edm.String" />
+				<Property Name="edad" Type="Edm.Int32" />
+				<Property Name="correo" Type="Edm.String" />
+				<NavigationProperty Name="TipoDocumento" Type="Mock.Models.TipoDocumento" Partner="Persona" />
+			</EntityType>
+			<!-- Entidad Cliente -->
+			<EntityType Name="Cliente">
+				<Key>
+					<PropertyRef Name="id" />
+				</Key>
+				<Property Name="id" Type="Edm.Int32" Nullable="false" />
+				<Property Name="nombre" Type="Edm.String" />
+				<Property Name="ciudad" Type="Edm.String" />
+				<Property Name="personaId" Type="Edm.Int32" />
+				<NavigationProperty Name="Persona" Type="Mock.Models.Persona" Partner="Cliente" />
+			</EntityType>
+			<!-- Entidad Empleado -->
+			<EntityType Name="Empleado">
+				<Key>
+					<PropertyRef Name="id" />
+				</Key>
+				<Property Name="id" Type="Edm.Int32" Nullable="false" />
+				<Property Name="cargo" Type="Edm.String" />
+				<Property Name="salario" Type="Edm.Decimal" Precision="18" Scale="2" />
+				<Property Name="personaId" Type="Edm.Int32" />
+				<NavigationProperty Name="Persona" Type="Mock.Models.Persona" Partner="Empleado" />
+			</EntityType>
+			<!-- Entidad Producto -->
+			<EntityType Name="Producto">
+				<Key>
+					<PropertyRef Name="id" />
+				</Key>
+				<Property Name="id" Type="Edm.Int32" Nullable="false" />
+				<Property Name="nombre" Type="Edm.String" />
+				<Property Name="precio" Type="Edm.Decimal" Precision="18" Scale="2" />
+			</EntityType>
+			<!-- Entidad Venta -->
+			<EntityType Name="Venta">
+				<Key>
+					<PropertyRef Name="id" />
+				</Key>
+				<Property Name="id" Type="Edm.Int32" Nullable="false" />
+				<Property Name="fecha" Type="Edm.Date" />
+				<Property Name="total" Type="Edm.Decimal" Precision="18" Scale="2" />
+				<Property Name="empleadoId" Type="Edm.Int32" />
+				<Property Name="clienteId" Type="Edm.Int32" />
+				<Property Name="productoIds" Type="Collection(Edm.Int32)" />
+				<NavigationProperty Name="Empleado" Type="Mock.Models.Empleado" Partner="Ventas" />
+				<NavigationProperty Name="Cliente" Type="Mock.Models.Cliente" Partner="Ventas" />
+				<NavigationProperty Name="Productos" Type="Collection(Mock.Models.Producto)" Partner="Ventas" />
+			</EntityType>
+			<!-- Contenedor -->
+			<EntityContainer Name="DefaultContainer">
+				<EntitySet Name="TipoDocumentos" EntityType="Mock.Models.TipoDocumento" />
+				<EntitySet Name="Personas" EntityType="Mock.Models.Persona" />
+				<EntitySet Name="Clientes" EntityType="Mock.Models.Cliente">
+					<NavigationPropertyBinding Path="Persona" Target="Personas" />
+				</EntitySet>
+				<EntitySet Name="Empleados" EntityType="Mock.Models.Empleado">
+					<NavigationPropertyBinding Path="Persona" Target="Personas" />
+				</EntitySet>
+				<EntitySet Name="Productos" EntityType="Mock.Models.Producto" />
+				<EntitySet Name="Ventas" EntityType="Mock.Models.Venta">
+					<NavigationPropertyBinding Path="Empleado" Target="Empleados" />
+					<NavigationPropertyBinding Path="Cliente" Target="Clientes" />
+					<NavigationPropertyBinding Path="Productos" Target="Productos" />
+				</EntitySet>
+			</EntityContainer>
+		</Schema>
+	</DataServices>
+</Edmx>

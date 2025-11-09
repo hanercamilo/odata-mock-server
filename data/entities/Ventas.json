@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "clienteId": 67,
+    "productoId": 148,
+    "empleadoId": 41,
+    "fecha": "2025-10-13",
+    "cantidad": 6,
+    "total": 23390778
+  },
+  {
+    "id": 2,
+    "clienteId": 38,
+    "productoId": 20,
+    "empleadoId": 51,
+    "fecha": "2025-01-12",
+    "cantidad": 3,
+    "total": 17415621
+  },
+  {
+    "id": 3,
+    "clienteId": 9,
+    "productoId": 55,
+    "empleadoId": 22,
+    "fecha": "2025-06-19",
+    "cantidad": 8,
+    "total": 32240864
+  },
+  {
+    "id": 4,
+    "clienteId": 21,
+    "productoId": 49,
+    "empleadoId": 163,
+    "fecha": "2024-01-28",
+    "cantidad": 2,
+    "total": 8480160
+  },
+  {
+    "id": 5,
+    "clienteId": 59,
+    "productoId": 56,
+    "empleadoId": 121,
+    "fecha": "2025-10-01",
+    "cantidad": 1,
+    "total": 2521294
+  },
+  {
+    "id": 6,
+    "clienteId": 22,
+    "productoId": 103,
+    "empleadoId": 59,
+    "fecha": "2025-09-04",
+    "cantidad": 7,
+    "total": 46740477
+  },
+  {
+    "id": 7,
+    "clienteId": 193,
+    "productoId": 56,
+    "empleadoId": 152,
+    "fecha": "2024-06-13",
+    "cantidad": 4,
+    "total": 10085176
+  },
+  {
+    "id": 8,
+    "clienteId": 188,
+    "productoId": 10,
+    "empleadoId": 33,
+    "fecha": "2025-07-02",
+    "cantidad": 2,
+    "total": 7244160
+  },
+  {
+    "id": 9,
+    "clienteId": 158,
+    "productoId": 67,
+    "empleadoId": 144,
+    "fecha": "2024-11-14",
+    "cantidad": 2,
+    "total": 7096960
+  },
+  {
+    "id": 10,
+    "clienteId": 99,
+    "productoId": 138,
+    "empleadoId": 71,
+    "fecha": "2025-12-08",
+    "cantidad": 10,
+    "total": 73255880
+  },
+  {
+    "id": 11,
+    "clienteId": 212,
+    "productoId": 102,
+    "empleadoId": 54,
+    "fecha": "2024-05-10",
+    "cantidad": 6,
+    "total": 27975270
+  },
+  {
+    "id": 12,
+    "clienteId": 54,
+    "productoId": 172,
+    "empleadoId": 115,
+    "fecha": "2024-08-25",
+    "cantidad": 7,
+    "total": 32585427
+  },
+  {
+    "id": 13,
+    "clienteId": 236,
+    "productoId": 142,
+    "empleadoId": 151,
+    "fecha": "2024-08-13",
+    "cantidad": 4,
+    "total": 15177012
+  },
+  {
+    "id": 14,
+    "clienteId": 117,
+    "productoId": 132,
+    "empleadoId": 160,
+    "fecha": "2025-03-16",
+    "cantidad": 2,
+    "total": 5004238
+  },
+  {
+    "id": 15,
+    "clienteId": 102,
+    "productoId": 11,
+    "empleadoId": 69,
+    "fecha": "2024-04-03",
+    "cantidad": 10,
+    "total": 46378720
+  },
+  {
+    "id": 16,
+    "clienteId": 88,
+    "productoId": 30,
+    "empleadoId": 173,
+    "fecha": "2024-06-25",
+    "cantidad": 9,
+    "total": 20070837
+  },
+  {
+    "id": 17,
+    "clienteId": 238,
+    "productoId": 20,
+    "empleadoId": 8,
+    "fecha": "2025-11-03",
+    "cantidad": 2,
+    "total": 11610414
+  },
+  {
+    "id": 18,
+    "clienteId": 17,
+    "productoId": 100,
+    "empleadoId": 136,
+    "fecha": "2024-07-26",
+    "cantidad": 4,
+    "total": 17361284
+  },
+  {
+    "id": 19,
+    "clienteId": 164,
+    "productoId": 25,
+    "empleadoId": 157,
+    "fecha": "2024-10-21",
+    "cantidad": 2,
+    "total": 2633998
+  },
+  {
+    "id": 20,
+    "clienteId": 170,
+    "productoId": 123,
+    "empleadoId": 177,
+    "fecha": "2025-11-07",
+    "cantidad": 6,
+    "total": 47774184
+  },
+  {
+    "id": 21,
+    "clienteId": 100,
+    "productoId": 138,
+    "empleadoId": 172,
+    "fecha": "2024-07-10",
+    "cantidad": 6,
+    "total": 43953528
+  },
+  {
+    "id": 22,
+    "clienteId": 93,
+    "productoId": 32,
+    "empleadoId": 159,
+    "fecha": "2025-07-11",
+    "cantidad": 4,
+    "total": 2388396
+  },
+  {
+    "id": 23,
+    "clienteId": 40,
+    "productoId": 25,
+    "empleadoId": 56,
+    "fecha": "2024-07-04",
+    "cantidad": 6,
+    "total": 7901994
+  },
+  {
+    "id": 24,
+    "clienteId": 212,
+    "productoId": 164,
+    "empleadoId": 182,
+    "fecha": "2025-12-30",
+    "cantidad": 9,
+    "total": 38279376
+  },
+  {
+    "id": 25,
+    "clienteId": 148,
+    "productoId": 6,
+    "empleadoId": 44,
+    "fecha": "2025-01-29",
+    "cantidad": 1,
+    "total": 4934989
+  },
+  {
+    "id": 26,
+    "clienteId": 50,
+    "productoId": 160,
+    "empleadoId": 142,
+    "fecha": "2025-06-03",
+    "cantidad": 2,
+    "total": 14232506
+  },
+  {
+    "id": 27,
+    "clienteId": 27,
+    "productoId": 92,
+    "empleadoId": 163,
+    "fecha": "2024-05-07",
+    "cantidad": 8,
+    "total": 2344296
+  },
+  {
+    "id": 28,
+    "clienteId": 82,
+    "productoId": 92,
+    "empleadoId": 14,
+    "fecha": "2025-12-13",
+    "cantidad": 9,
+    "total": 2637333
+  },
+  {
+    "id": 29,
+    "clienteId": 16,
+    "productoId": 146,
+    "empleadoId": 137,
+    "fecha": "2024-05-08",
+    "cantidad": 6,
+    "total": 37341558
+  },
+  {
+    "id": 30,
+    "clienteId": 99,
+    "productoId": 122,
+    "empleadoId": 132,
+    "fecha": "2024-02-16",
+    "cantidad": 5,
+    "total": 18837710
+  },
+  {
+    "id": 31,
+    "clienteId": 68,
+    "productoId": 143,
+    "empleadoId": 149,
+    "fecha": "2025-07-15",
+    "cantidad": 5,
+    "total": 2103940
+  },
+  {
+    "id": 32,
+    "clienteId": 40,
+    "productoId": 22,
+    "empleadoId": 108,
+    "fecha": "2024-07-29",
+    "cantidad": 3,
+    "total": 5473053
+  },
+  {
+    "id": 33,
+    "clienteId": 198,
+    "productoId": 67,
+    "empleadoId": 183,
+    "fecha": "2024-04-07",
+    "cantidad": 6,
+    "total": 21290880
+  },
+  {
+    "id": 34,
+    "clienteId": 176,
+    "productoId": 139,
+    "empleadoId": 129,
+    "fecha": "2024-03-17",
+    "cantidad": 10,
+    "total": 45032870
+  },
+  {
+    "id": 35,
+    "clienteId": 167,
+    "productoId": 114,
+    "empleadoId": 27,
+    "fecha": "2024-09-03",
+    "cantidad": 4,
+    "total": 5252448
+  },
+  {
+    "id": 36,
+    "clienteId": 100,
+    "productoId": 109,
+    "empleadoId": 94,
+    "fecha": "2024-08-04",
+    "cantidad": 5,
+    "total": 16057185
+  },
+  {
+    "id": 37,
+    "clienteId": 104,
+    "productoId": 111,
+    "empleadoId": 101,
+    "fecha": "2025-10-25",
+    "cantidad": 2,
+    "total": 15745186
+  },
+  {
+    "id": 38,
+    "clienteId": 103,
+    "productoId": 113,
+    "empleadoId": 68,
+    "fecha": "2025-12-06",
+    "cantidad": 2,
+    "total": 6136518
+  },
+  {
+    "id": 39,
+    "clienteId": 224,
+    "productoId": 75,
+    "empleadoId": 169,
+    "fecha": "2025-07-14",
+    "cantidad": 9,
+    "total": 26273556
+  },
+  {
+    "id": 40,
+    "clienteId": 235,
+    "productoId": 4,
+    "empleadoId": 58,
+    "fecha": "2024-10-07",
+    "cantidad": 8,
+    "total": 50545944
+  },
+  {
+    "id": 41,
+    "clienteId": 28,
+    "productoId": 99,
+    "empleadoId": 83,
+    "fecha": "2024-01-14",
+    "cantidad": 8,
+    "total": 46553456
+  },
+  {
+    "id": 42,
+    "clienteId": 228,
+    "productoId": 125,
+    "empleadoId": 91,
+    "fecha": "2025-08-04",
+    "cantidad": 9,
+    "total": 57920625
+  },
+  {
+    "id": 43,
+    "clienteId": 210,
+    "productoId": 40,
+    "empleadoId": 27,
+    "fecha": "2025-03-19",
+    "cantidad": 1,
+    "total": 5908718
+  },
+  {
+    "id": 44,
+    "clienteId": 101,
+    "productoId": 133,
+    "empleadoId": 182,
+    "fecha": "2025-10-09",
+    "cantidad": 5,
+    "total": 18526315
+  },
+  {
+    "id": 45,
+    "clienteId": 76,
+    "productoId": 154,
+    "empleadoId": 183,
+    "fecha": "2025-09-19",
+    "cantidad": 3,
+    "total": 4143423
+  },
+  {
+    "id": 46,
+    "clienteId": 249,
+    "productoId": 44,
+    "empleadoId": 70,
+    "fecha": "2024-03-26",
+    "cantidad": 2,
+    "total": 2154876
+  },
+  {
+    "id": 47,
+    "clienteId": 174,
+    "productoId": 153,
+    "empleadoId": 41,
+    "fecha": "2025-06-08",
+    "cantidad": 7,
+    "total": 28851753
+  },
+  {
+    "id": 48,
+    "clienteId": 95,
+    "productoId": 79,
+    "empleadoId": 191,
+    "fecha": "2025-06-12",
+    "cantidad": 2,
+    "total": 14404756
+  },
+  {
+    "id": 49,
+    "clienteId": 90,
+    "productoId": 189,
+    "empleadoId": 72,
+    "fecha": "2025-12-07",
+    "cantidad": 8,
+    "total": 38576856
+  },
+  {
+    "id": 50,
+    "clienteId": 166,
+    "productoId": 67,
+    "empleadoId": 174,
+    "fecha": "2025-05-12",
+    "cantidad": 7,
+    "total": 24839360
+  },
+  {
+    "id": 51,
+    "clienteId": 66,
+    "productoId": 152,
+    "empleadoId": 164,
+    "fecha": "2025-02-17",
+    "cantidad": 3,
+    "total": 19896168
+  },
+  {
+    "id": 52,
+    "clienteId": 135,
+    "productoId": 55,
+    "empleadoId": 78,
+    "fecha": "2025-06-16",
+    "cantidad": 8,
+    "total": 32240864
+  },
+  {
+    "id": 53,
+    "clienteId": 7,
+    "productoId": 118,
+    "empleadoId": 44,
+    "fecha": "2025-03-01",
+    "cantidad": 3,
+    "total": 5676402
+  },
+  {
+    "id": 54,
+    "clienteId": 11,
+    "productoId": 37,
+    "empleadoId": 189,
+    "fecha": "2025-04-29",
+    "cantidad": 1,
+    "total": 2243971
+  },
+  {
+    "id": 55,
+    "clienteId": 204,
+    "productoId": 92,
+    "empleadoId": 124,
+    "fecha": "2025-08-21",
+    "cantidad": 3,
+    "total": 879111
+  },
+  {
+    "id": 56,
+    "clienteId": 155,
+    "productoId": 42,
+    "empleadoId": 166,
+    "fecha": "2025-03-12",
+    "cantidad": 2,
+    "total": 8312968
+  },
+  {
+    "id": 57,
+    "clienteId": 186,
+    "productoId": 33,
+    "empleadoId": 44,
+    "fecha": "2025-05-24",
+    "cantidad": 7,
+    "total": 19033875
+  },
+  {
+    "id": 58,
+    "clienteId": 89,
+    "productoId": 85,
+    "empleadoId": 163,
+    "fecha": "2024-01-19",
+    "cantidad": 4,
+    "total": 16905820
+  },
+  {
+    "id": 59,
+    "clienteId": 34,
+    "productoId": 51,
+    "empleadoId": 46,
+    "fecha": "2025-08-11",
+    "cantidad": 2,
+    "total": 3583506
+  },
+  {
+    "id": 60,
+    "clienteId": 27,
+    "productoId": 178,
+    "empleadoId": 188,
+    "fecha": "2025-04-26",
+    "cantidad": 8,
+    "total": 53321440
+  },
+  {
+    "id": 61,
+    "clienteId": 97,
+    "productoId": 158,
+    "empleadoId": 119,
+    "fecha": "2025-06-28",
+    "cantidad": 9,
+    "total": 61151256
+  },
+  {
+    "id": 62,
+    "clienteId": 217,
+    "productoId": 129,
+    "empleadoId": 192,
+    "fecha": "2025-12-27",
+    "cantidad": 2,
+    "total": 387446
+  },
+  {
+    "id": 63,
+    "clienteId": 223,
+    "productoId": 187,
+    "empleadoId": 126,
+    "fecha": "2025-02-10",
+    "cantidad": 4,
+    "total": 26050244
+  },
+  {
+    "id": 64,
+    "clienteId": 166,
+    "productoId": 136,
+    "empleadoId": 53,
+    "fecha": "2024-04-04",
+    "cantidad": 5,
+    "total": 22128525
+  },
+  {
+    "id": 65,
+    "clienteId": 82,
+    "productoId": 153,
+    "empleadoId": 45,
+    "fecha": "2025-11-21",
+    "cantidad": 10,
+    "total": 41216790
+  },
+  {
+    "id": 66,
+    "clienteId": 201,
+    "productoId": 159,
+    "empleadoId": 1,
+    "fecha": "2024-03-20",
+    "cantidad": 6,
+    "total": 12663366
+  },
+  {
+    "id": 67,
+    "clienteId": 182,
+    "productoId": 23,
+    "empleadoId": 2,
+    "fecha": "2024-04-21",
+    "cantidad": 9,
+    "total": 60200613
+  },
+  {
+    "id": 68,
+    "clienteId": 69,
+    "productoId": 163,
+    "empleadoId": 18,
+    "fecha": "2024-07-12",
+    "cantidad": 5,
+    "total": 19117020
+  },
+  {
+    "id": 69,
+    "clienteId": 56,
+    "productoId": 82,
+    "empleadoId": 95,
+    "fecha": "2024-04-25",
+    "cantidad": 10,
+    "total": 37356300
+  },
+  {
+    "id": 70,
+    "clienteId": 184,
+    "productoId": 61,
+    "empleadoId": 159,
+    "fecha": "2024-04-29",
+    "cantidad": 5,
+    "total": 10417780
+  },
+  {
+    "id": 71,
+    "clienteId": 98,
+    "productoId": 163,
+    "empleadoId": 194,
+    "fecha": "2025-06-22",
+    "cantidad": 8,
+    "total": 30587232
+  },
+  {
+    "id": 72,
+    "clienteId": 199,
+    "productoId": 177,
+    "empleadoId": 75,
+    "fecha": "2024-10-21",
+    "cantidad": 7,
+    "total": 48352367
+  },
+  {
+    "id": 73,
+    "clienteId": 71,
+    "productoId": 24,
+    "empleadoId": 148,
+    "fecha": "2024-11-22",
+    "cantidad": 2,
+    "total": 3977378
+  },
+  {
+    "id": 74,
+    "clienteId": 224,
+    "productoId": 69,
+    "empleadoId": 171,
+    "fecha": "2025-02-04",
+    "cantidad": 1,
+    "total": 4711300
+  },
+  {
+    "id": 75,
+    "clienteId": 98,
+    "productoId": 42,
+    "empleadoId": 62,
+    "fecha": "2024-07-18",
+    "cantidad": 4,
+    "total": 16625936
+  },
+  {
+    "id": 76,
+    "clienteId": 216,
+    "productoId": 195,
+    "empleadoId": 197,
+    "fecha": "2024-08-27",
+    "cantidad": 6,
+    "total": 8416428
+  },
+  {
+    "id": 77,
+    "clienteId": 132,
+    "productoId": 56,
+    "empleadoId": 59,
+    "fecha": "2025-06-16",
+    "cantidad": 7,
+    "total": 17649058
+  },
+  {
+    "id": 78,
+    "clienteId": 223,
+    "productoId": 83,
+    "empleadoId": 55,
+    "fecha": "2024-02-24",
+    "cantidad": 8,
+    "total": 62006544
+  },
+  {
+    "id": 79,
+    "clienteId": 2,
+    "productoId": 164,
+    "empleadoId": 195,
+    "fecha": "2025-01-21",
+    "cantidad": 7,
+    "total": 29772848
+  },
+  {
+    "id": 80,
+    "clienteId": 166,
+    "productoId": 169,
+    "empleadoId": 79,
+    "fecha": "2025-12-19",
+    "cantidad": 2,
+    "total": 726100
+  },
+  {
+    "id": 81,
+    "clienteId": 227,
+    "productoId": 20,
+    "empleadoId": 54,
+    "fecha": "2024-09-24",
+    "cantidad": 2,
+    "total": 11610414
+  },
+  {
+    "id": 82,
+    "clienteId": 55,
+    "productoId": 2,
+    "empleadoId": 83,
+    "fecha": "2025-08-18",
+    "cantidad": 6,
+    "total": 13841304
+  },
+  {
+    "id": 83,
+    "clienteId": 238,
+    "productoId": 62,
+    "empleadoId": 22,
+    "fecha": "2025-07-18",
+    "cantidad": 4,
+    "total": 4107580
+  },
+  {
+    "id": 84,
+    "clienteId": 51,
+    "productoId": 21,
+    "empleadoId": 173,
+    "fecha": "2025-05-19",
+    "cantidad": 2,
+    "total": 11249688
+  },
+  {
+    "id": 85,
+    "clienteId": 193,
+    "productoId": 137,
+    "empleadoId": 148,
+    "fecha": "2025-01-06",
+    "cantidad": 7,
+    "total": 25102252
+  },
+  {
+    "id": 86,
+    "clienteId": 208,
+    "productoId": 91,
+    "empleadoId": 200,
+    "fecha": "2024-09-04",
+    "cantidad": 3,
+    "total": 16585632
+  },
+  {
+    "id": 87,
+    "clienteId": 225,
+    "productoId": 32,
+    "empleadoId": 128,
+    "fecha": "2025-07-17",
+    "cantidad": 9,
+    "total": 5373891
+  },
+  {
+    "id": 88,
+    "clienteId": 183,
+    "productoId": 58,
+    "empleadoId": 102,
+    "fecha": "2025-03-03",
+    "cantidad": 6,
+    "total": 19289400
+  },
+  {
+    "id": 89,
+    "clienteId": 93,
+    "productoId": 200,
+    "empleadoId": 170,
+    "fecha": "2025-02-23",
+    "cantidad": 7,
+    "total": 18109441
+  },
+  {
+    "id": 90,
+    "clienteId": 216,
+    "productoId": 36,
+    "empleadoId": 74,
+    "fecha": "2025-08-29",
+    "cantidad": 6,
+    "total": 41099316
+  },
+  {
+    "id": 91,
+    "clienteId": 106,
+    "productoId": 62,
+    "empleadoId": 97,
+    "fecha": "2024-11-25",
+    "cantidad": 2,
+    "total": 2053790
+  },
+  {
+    "id": 92,
+    "clienteId": 203,
+    "productoId": 138,
+    "empleadoId": 109,
+    "fecha": "2024-08-15",
+    "cantidad": 9,
+    "total": 65930292
+  },
+  {
+    "id": 93,
+    "clienteId": 11,
+    "productoId": 129,
+    "empleadoId": 200,
+    "fecha": "2025-08-30",
+    "cantidad": 4,
+    "total": 774892
+  },
+  {
+    "id": 94,
+    "clienteId": 8,
+    "productoId": 67,
+    "empleadoId": 48,
+    "fecha": "2025-09-25",
+    "cantidad": 1,
+    "total": 3548480
+  },
+  {
+    "id": 95,
+    "clienteId": 237,
+    "productoId": 105,
+    "empleadoId": 27,
+    "fecha": "2024-12-09",
+    "cantidad": 3,
+    "total": 5518713
+  },
+  {
+    "id": 96,
+    "clienteId": 162,
+    "productoId": 133,
+    "empleadoId": 10,
+    "fecha": "2025-03-18",
+    "cantidad": 10,
+    "total": 37052630
+  },
+  {
+    "id": 97,
+    "clienteId": 74,
+    "productoId": 126,
+    "empleadoId": 13,
+    "fecha": "2025-09-29",
+    "cantidad": 3,
+    "total": 21915864
+  },
+  {
+    "id": 98,
+    "clienteId": 183,
+    "productoId": 5,
+    "empleadoId": 12,
+    "fecha": "2025-11-16",
+    "cantidad": 1,
+    "total": 757599
+  },
+  {
+    "id": 99,
+    "clienteId": 165,
+    "productoId": 22,
+    "empleadoId": 104,
+    "fecha": "2025-12-05",
+    "cantidad": 3,
+    "total": 5473053
+  },
+  {
+    "id": 100,
+    "clienteId": 30,
+    "productoId": 179,
+    "empleadoId": 165,
+    "fecha": "2024-06-19",
+    "cantidad": 7,
+    "total": 8593354
+  },
+  {
+    "id": 101,
+    "clienteId": 210,
+    "productoId": 177,
+    "empleadoId": 57,
+    "fecha": "2025-03-18",
+    "cantidad": 5,
+    "total": 34537405
+  },
+  {
+    "id": 102,
+    "clienteId": 46,
+    "productoId": 17,
+    "empleadoId": 89,
+    "fecha": "2024-09-17",
+    "cantidad": 7,
+    "total": 43841035
+  },
+  {
+    "id": 103,
+    "clienteId": 48,
+    "productoId": 182,
+    "empleadoId": 85,
+    "fecha": "2025-11-18",
+    "cantidad": 8,
+    "total": 40164880
+  },
+  {
+    "id": 104,
+    "clienteId": 7,
+    "productoId": 126,
+    "empleadoId": 141,
+    "fecha": "2025-07-18",
+    "cantidad": 9,
+    "total": 65747592
+  },
+  {
+    "id": 105,
+    "clienteId": 86,
+    "productoId": 79,
+    "empleadoId": 122,
+    "fecha": "2025-05-31",
+    "cantidad": 10,
+    "total": 72023780
+  },
+  {
+    "id": 106,
+    "clienteId": 6,
+    "productoId": 178,
+    "empleadoId": 136,
+    "fecha": "2024-02-15",
+    "cantidad": 10,
+    "total": 66651800
+  },
+  {
+    "id": 107,
+    "clienteId": 85,
+    "productoId": 8,
+    "empleadoId": 138,
+    "fecha": "2024-02-04",
+    "cantidad": 7,
+    "total": 38097178
+  },
+  {
+    "id": 108,
+    "clienteId": 124,
+    "productoId": 67,
+    "empleadoId": 70,
+    "fecha": "2024-12-26",
+    "cantidad": 6,
+    "total": 21290880
+  },
+  {
+    "id": 109,
+    "clienteId": 26,
+    "productoId": 119,
+    "empleadoId": 119,
+    "fecha": "2024-10-06",
+    "cantidad": 1,
+    "total": 5119751
+  },
+  {
+    "id": 110,
+    "clienteId": 177,
+    "productoId": 95,
+    "empleadoId": 154,
+    "fecha": "2024-09-13",
+    "cantidad": 10,
+    "total": 64157930
+  },
+  {
+    "id": 111,
+    "clienteId": 118,
+    "productoId": 79,
+    "empleadoId": 162,
+    "fecha": "2024-12-26",
+    "cantidad": 6,
+    "total": 43214268
+  },
+  {
+    "id": 112,
+    "clienteId": 87,
+    "productoId": 59,
+    "empleadoId": 36,
+    "fecha": "2024-09-30",
+    "cantidad": 7,
+    "total": 16419046
+  },
+  {
+    "id": 113,
+    "clienteId": 183,
+    "productoId": 156,
+    "empleadoId": 107,
+    "fecha": "2024-04-10",
+    "cantidad": 3,
+    "total": 1105887
+  },
+  {
+    "id": 114,
+    "clienteId": 107,
+    "productoId": 56,
+    "empleadoId": 158,
+    "fecha": "2025-12-14",
+    "cantidad": 6,
+    "total": 15127764
+  },
+  {
+    "id": 115,
+    "clienteId": 243,
+    "productoId": 30,
+    "empleadoId": 196,
+    "fecha": "2025-09-16",
+    "cantidad": 10,
+    "total": 22300930
+  },
+  {
+    "id": 116,
+    "clienteId": 53,
+    "productoId": 98,
+    "empleadoId": 185,
+    "fecha": "2024-09-19",
+    "cantidad": 4,
+    "total": 22915656
+  },
+  {
+    "id": 117,
+    "clienteId": 225,
+    "productoId": 98,
+    "empleadoId": 110,
+    "fecha": "2025-02-04",
+    "cantidad": 3,
+    "total": 17186742
+  },
+  {
+    "id": 118,
+    "clienteId": 189,
+    "productoId": 146,
+    "empleadoId": 116,
+    "fecha": "2025-08-03",
+    "cantidad": 5,
+    "total": 31117965
+  },
+  {
+    "id": 119,
+    "clienteId": 106,
+    "productoId": 31,
+    "empleadoId": 45,
+    "fecha": "2024-03-25",
+    "cantidad": 2,
+    "total": 9101830
+  },
+  {
+    "id": 120,
+    "clienteId": 5,
+    "productoId": 26,
+    "empleadoId": 196,
+    "fecha": "2024-10-14",
+    "cantidad": 5,
+    "total": 37014285
+  },
+  {
+    "id": 121,
+    "clienteId": 68,
+    "productoId": 190,
+    "empleadoId": 116,
+    "fecha": "2024-03-14",
+    "cantidad": 8,
+    "total": 22387000
+  },
+  {
+    "id": 122,
+    "clienteId": 101,
+    "productoId": 10,
+    "empleadoId": 35,
+    "fecha": "2025-07-22",
+    "cantidad": 2,
+    "total": 7244160
+  },
+  {
+    "id": 123,
+    "clienteId": 98,
+    "productoId": 163,
+    "empleadoId": 143,
+    "fecha": "2025-01-16",
+    "cantidad": 6,
+    "total": 22940424
+  },
+  {
+    "id": 124,
+    "clienteId": 5,
+    "productoId": 113,
+    "empleadoId": 18,
+    "fecha": "2024-05-30",
+    "cantidad": 5,
+    "total": 15341295
+  },
+  {
+    "id": 125,
+    "clienteId": 113,
+    "productoId": 65,
+    "empleadoId": 176,
+    "fecha": "2025-11-24",
+    "cantidad": 4,
+    "total": 4097652
+  },
+  {
+    "id": 126,
+    "clienteId": 28,
+    "productoId": 105,
+    "empleadoId": 190,
+    "fecha": "2025-01-05",
+    "cantidad": 9,
+    "total": 16556139
+  },
+  {
+    "id": 127,
+    "clienteId": 29,
+    "productoId": 62,
+    "empleadoId": 101,
+    "fecha": "2025-08-14",
+    "cantidad": 3,
+    "total": 3080685
+  },
+  {
+    "id": 128,
+    "clienteId": 181,
+    "productoId": 83,
+    "empleadoId": 169,
+    "fecha": "2024-02-11",
+    "cantidad": 7,
+    "total": 54255726
+  },
+  {
+    "id": 129,
+    "clienteId": 153,
+    "productoId": 62,
+    "empleadoId": 176,
+    "fecha": "2024-10-17",
+    "cantidad": 7,
+    "total": 7188265
+  },
+  {
+    "id": 130,
+    "clienteId": 169,
+    "productoId": 168,
+    "empleadoId": 96,
+    "fecha": "2024-06-09",
+    "cantidad": 2,
+    "total": 7650048
+  },
+  {
+    "id": 131,
+    "clienteId": 243,
+    "productoId": 167,
+    "empleadoId": 190,
+    "fecha": "2025-08-20",
+    "cantidad": 6,
+    "total": 15385668
+  },
+  {
+    "id": 132,
+    "clienteId": 7,
+    "productoId": 162,
+    "empleadoId": 161,
+    "fecha": "2025-06-21",
+    "cantidad": 7,
+    "total": 20702038
+  },
+  {
+    "id": 133,
+    "clienteId": 12,
+    "productoId": 73,
+    "empleadoId": 8,
+    "fecha": "2025-11-09",
+    "cantidad": 1,
+    "total": 2361311
+  },
+  {
+    "id": 134,
+    "clienteId": 110,
+    "productoId": 21,
+    "empleadoId": 80,
+    "fecha": "2025-08-22",
+    "cantidad": 4,
+    "total": 22499376
+  },
+  {
+    "id": 135,
+    "clienteId": 84,
+    "productoId": 78,
+    "empleadoId": 199,
+    "fecha": "2024-03-21",
+    "cantidad": 7,
+    "total": 17757516
+  },
+  {
+    "id": 136,
+    "clienteId": 92,
+    "productoId": 64,
+    "empleadoId": 80,
+    "fecha": "2024-11-27",
+    "cantidad": 6,
+    "total": 15020982
+  },
+  {
+    "id": 137,
+    "clienteId": 192,
+    "productoId": 147,
+    "empleadoId": 15,
+    "fecha": "2024-04-14",
+    "cantidad": 8,
+    "total": 25039696
+  },
+  {
+    "id": 138,
+    "clienteId": 198,
+    "productoId": 63,
+    "empleadoId": 157,
+    "fecha": "2025-06-21",
+    "cantidad": 1,
+    "total": 990200
+  },
+  {
+    "id": 139,
+    "clienteId": 162,
+    "productoId": 164,
+    "empleadoId": 141,
+    "fecha": "2024-01-11",
+    "cantidad": 8,
+    "total": 34026112
+  },
+  {
+    "id": 140,
+    "clienteId": 84,
+    "productoId": 93,
+    "empleadoId": 14,
+    "fecha": "2025-09-01",
+    "cantidad": 6,
+    "total": 15392358
+  },
+  {
+    "id": 141,
+    "clienteId": 129,
+    "productoId": 77,
+    "empleadoId": 155,
+    "fecha": "2024-10-23",
+    "cantidad": 5,
+    "total": 15546765
+  },
+  {
+    "id": 142,
+    "clienteId": 245,
+    "productoId": 3,
+    "empleadoId": 6,
+    "fecha": "2024-01-09",
+    "cantidad": 8,
+    "total": 12000328
+  },
+  {
+    "id": 143,
+    "clienteId": 116,
+    "productoId": 163,
+    "empleadoId": 16,
+    "fecha": "2024-05-22",
+    "cantidad": 10,
+    "total": 38234040
+  },
+  {
+    "id": 144,
+    "clienteId": 17,
+    "productoId": 62,
+    "empleadoId": 100,
+    "fecha": "2025-03-27",
+    "cantidad": 8,
+    "total": 8215160
+  },
+  {
+    "id": 145,
+    "clienteId": 80,
+    "productoId": 152,
+    "empleadoId": 85,
+    "fecha": "2025-05-13",
+    "cantidad": 7,
+    "total": 46424392
+  },
+  {
+    "id": 146,
+    "clienteId": 214,
+    "productoId": 15,
+    "empleadoId": 38,
+    "fecha": "2024-08-20",
+    "cantidad": 9,
+    "total": 51433011
+  },
+  {
+    "id": 147,
+    "clienteId": 76,
+    "productoId": 166,
+    "empleadoId": 67,
+    "fecha": "2024-07-31",
+    "cantidad": 4,
+    "total": 13645844
+  },
+  {
+    "id": 148,
+    "clienteId": 92,
+    "productoId": 163,
+    "empleadoId": 35,
+    "fecha": "2024-12-15",
+    "cantidad": 7,
+    "total": 26763828
+  },
+  {
+    "id": 149,
+    "clienteId": 226,
+    "productoId": 26,
+    "empleadoId": 83,
+    "fecha": "2024-03-01",
+    "cantidad": 10,
+    "total": 74028570
+  },
+  {
+    "id": 150,
+    "clienteId": 241,
+    "productoId": 53,
+    "empleadoId": 7,
+    "fecha": "2024-07-16",
+    "cantidad": 3,
+    "total": 20679813
+  },
+  {
+    "id": 151,
+    "clienteId": 165,
+    "productoId": 86,
+    "empleadoId": 17,
+    "fecha": "2025-06-18",
+    "cantidad": 6,
+    "total": 11982480
+  },
+  {
+    "id": 152,
+    "clienteId": 213,
+    "productoId": 9,
+    "empleadoId": 153,
+    "fecha": "2025-10-12",
+    "cantidad": 10,
+    "total": 62830330
+  },
+  {
+    "id": 153,
+    "clienteId": 167,
+    "productoId": 115,
+    "empleadoId": 195,
+    "fecha": "2025-07-04",
+    "cantidad": 2,
+    "total": 13979650
+  },
+  {
+    "id": 154,
+    "clienteId": 71,
+    "productoId": 145,
+    "empleadoId": 74,
+    "fecha": "2025-03-18",
+    "cantidad": 10,
+    "total": 4064400
+  },
+  {
+    "id": 155,
+    "clienteId": 221,
+    "productoId": 72,
+    "empleadoId": 42,
+    "fecha": "2024-02-29",
+    "cantidad": 3,
+    "total": 710937
+  },
+  {
+    "id": 156,
+    "clienteId": 82,
+    "productoId": 103,
+    "empleadoId": 13,
+    "fecha": "2024-02-12",
+    "cantidad": 1,
+    "total": 6677211
+  },
+  {
+    "id": 157,
+    "clienteId": 35,
+    "productoId": 192,
+    "empleadoId": 10,
+    "fecha": "2025-12-20",
+    "cantidad": 1,
+    "total": 5332535
+  },
+  {
+    "id": 158,
+    "clienteId": 239,
+    "productoId": 87,
+    "empleadoId": 108,
+    "fecha": "2025-09-18",
+    "cantidad": 10,
+    "total": 79168280
+  },
+  {
+    "id": 159,
+    "clienteId": 108,
+    "productoId": 24,
+    "empleadoId": 188,
+    "fecha": "2025-06-14",
+    "cantidad": 2,
+    "total": 3977378
+  },
+  {
+    "id": 160,
+    "clienteId": 170,
+    "productoId": 108,
+    "empleadoId": 13,
+    "fecha": "2025-10-04",
+    "cantidad": 1,
+    "total": 4341337
+  },
+  {
+    "id": 161,
+    "clienteId": 227,
+    "productoId": 38,
+    "empleadoId": 108,
+    "fecha": "2025-12-14",
+    "cantidad": 8,
+    "total": 42894128
+  },
+  {
+    "id": 162,
+    "clienteId": 49,
+    "productoId": 158,
+    "empleadoId": 12,
+    "fecha": "2024-08-12",
+    "cantidad": 7,
+    "total": 47562088
+  },
+  {
+    "id": 163,
+    "clienteId": 138,
+    "productoId": 21,
+    "empleadoId": 157,
+    "fecha": "2024-04-28",
+    "cantidad": 8,
+    "total": 44998752
+  },
+  {
+    "id": 164,
+    "clienteId": 55,
+    "productoId": 168,
+    "empleadoId": 39,
+    "fecha": "2024-10-07",
+    "cantidad": 10,
+    "total": 38250240
+  },
+  {
+    "id": 165,
+    "clienteId": 207,
+    "productoId": 86,
+    "empleadoId": 6,
+    "fecha": "2025-09-06",
+    "cantidad": 5,
+    "total": 9985400
+  },
+  {
+    "id": 166,
+    "clienteId": 242,
+    "productoId": 141,
+    "empleadoId": 176,
+    "fecha": "2024-01-12",
+    "cantidad": 7,
+    "total": 11139436
+  },
+  {
+    "id": 167,
+    "clienteId": 9,
+    "productoId": 200,
+    "empleadoId": 8,
+    "fecha": "2025-01-06",
+    "cantidad": 3,
+    "total": 7761189
+  },
+  {
+    "id": 168,
+    "clienteId": 224,
+    "productoId": 169,
+    "empleadoId": 143,
+    "fecha": "2025-04-18",
+    "cantidad": 4,
+    "total": 1452200
+  },
+  {
+    "id": 169,
+    "clienteId": 86,
+    "productoId": 132,
+    "empleadoId": 146,
+    "fecha": "2025-03-16",
+    "cantidad": 4,
+    "total": 10008476
+  },
+  {
+    "id": 170,
+    "clienteId": 20,
+    "productoId": 78,
+    "empleadoId": 110,
+    "fecha": "2024-01-05",
+    "cantidad": 8,
+    "total": 20294304
+  },
+  {
+    "id": 171,
+    "clienteId": 68,
+    "productoId": 58,
+    "empleadoId": 160,
+    "fecha": "2024-12-11",
+    "cantidad": 3,
+    "total": 9644700
+  },
+  {
+    "id": 172,
+    "clienteId": 248,
+    "productoId": 27,
+    "empleadoId": 70,
+    "fecha": "2024-05-21",
+    "cantidad": 2,
+    "total": 9907808
+  },
+  {
+    "id": 173,
+    "clienteId": 86,
+    "productoId": 171,
+    "empleadoId": 160,
+    "fecha": "2025-07-22",
+    "cantidad": 5,
+    "total": 4248185
+  },
+  {
+    "id": 174,
+    "clienteId": 147,
+    "productoId": 163,
+    "empleadoId": 93,
+    "fecha": "2025-01-28",
+    "cantidad": 8,
+    "total": 30587232
+  },
+  {
+    "id": 175,
+    "clienteId": 93,
+    "productoId": 19,
+    "empleadoId": 68,
+    "fecha": "2024-02-29",
+    "cantidad": 10,
+    "total": 64003820
+  },
+  {
+    "id": 176,
+    "clienteId": 230,
+    "productoId": 146,
+    "empleadoId": 179,
+    "fecha": "2025-04-10",
+    "cantidad": 9,
+    "total": 56012337
+  },
+  {
+    "id": 177,
+    "clienteId": 239,
+    "productoId": 99,
+    "empleadoId": 22,
+    "fecha": "2024-08-14",
+    "cantidad": 10,
+    "total": 58191820
+  },
+  {
+    "id": 178,
+    "clienteId": 68,
+    "productoId": 169,
+    "empleadoId": 140,
+    "fecha": "2024-05-14",
+    "cantidad": 1,
+    "total": 363050
+  },
+  {
+    "id": 179,
+    "clienteId": 67,
+    "productoId": 89,
+    "empleadoId": 42,
+    "fecha": "2025-05-09",
+    "cantidad": 4,
+    "total": 22517548
+  },
+  {
+    "id": 180,
+    "clienteId": 77,
+    "productoId": 157,
+    "empleadoId": 187,
+    "fecha": "2025-11-30",
+    "cantidad": 10,
+    "total": 16354000
+  },
+  {
+    "id": 181,
+    "clienteId": 221,
+    "productoId": 172,
+    "empleadoId": 125,
+    "fecha": "2025-06-13",
+    "cantidad": 5,
+    "total": 23275305
+  },
+  {
+    "id": 182,
+    "clienteId": 36,
+    "productoId": 158,
+    "empleadoId": 47,
+    "fecha": "2024-07-17",
+    "cantidad": 9,
+    "total": 61151256
+  },
+  {
+    "id": 183,
+    "clienteId": 112,
+    "productoId": 71,
+    "empleadoId": 192,
+    "fecha": "2025-01-24",
+    "cantidad": 10,
+    "total": 60735260
+  },
+  {
+    "id": 184,
+    "clienteId": 151,
+    "productoId": 127,
+    "empleadoId": 15,
+    "fecha": "2025-10-22",
+    "cantidad": 1,
+    "total": 6735548
+  },
+  {
+    "id": 185,
+    "clienteId": 150,
+    "productoId": 159,
+    "empleadoId": 66,
+    "fecha": "2025-08-30",
+    "cantidad": 3,
+    "total": 6331683
+  },
+  {
+    "id": 186,
+    "clienteId": 216,
+    "productoId": 3,
+    "empleadoId": 70,
+    "fecha": "2025-01-16",
+    "cantidad": 6,
+    "total": 9000246
+  },
+  {
+    "id": 187,
+    "clienteId": 40,
+    "productoId": 16,
+    "empleadoId": 14,
+    "fecha": "2024-07-15",
+    "cantidad": 9,
+    "total": 11419821
+  },
+  {
+    "id": 188,
+    "clienteId": 70,
+    "productoId": 72,
+    "empleadoId": 164,
+    "fecha": "2024-05-27",
+    "cantidad": 5,
+    "total": 1184895
+  },
+  {
+    "id": 189,
+    "clienteId": 226,
+    "productoId": 165,
+    "empleadoId": 2,
+    "fecha": "2024-07-05",
+    "cantidad": 7,
+    "total": 40675509
+  },
+  {
+    "id": 190,
+    "clienteId": 49,
+    "productoId": 50,
+    "empleadoId": 118,
+    "fecha": "2024-07-12",
+    "cantidad": 1,
+    "total": 2465312
+  },
+  {
+    "id": 191,
+    "clienteId": 105,
+    "productoId": 58,
+    "empleadoId": 197,
+    "fecha": "2025-04-21",
+    "cantidad": 10,
+    "total": 32149000
+  },
+  {
+    "id": 192,
+    "clienteId": 97,
+    "productoId": 119,
+    "empleadoId": 131,
+    "fecha": "2024-06-27",
+    "cantidad": 3,
+    "total": 15359253
+  },
+  {
+    "id": 193,
+    "clienteId": 47,
+    "productoId": 153,
+    "empleadoId": 42,
+    "fecha": "2025-05-03",
+    "cantidad": 6,
+    "total": 24730074
+  },
+  {
+    "id": 194,
+    "clienteId": 153,
+    "productoId": 91,
+    "empleadoId": 28,
+    "fecha": "2024-06-28",
+    "cantidad": 6,
+    "total": 33171264
+  },
+  {
+    "id": 195,
+    "clienteId": 51,
+    "productoId": 15,
+    "empleadoId": 99,
+    "fecha": "2024-12-06",
+    "cantidad": 2,
+    "total": 11429558
+  },
+  {
+    "id": 196,
+    "clienteId": 8,
+    "productoId": 60,
+    "empleadoId": 99,
+    "fecha": "2025-07-03",
+    "cantidad": 3,
+    "total": 6004992
+  },
+  {
+    "id": 197,
+    "clienteId": 120,
+    "productoId": 7,
+    "empleadoId": 67,
+    "fecha": "2024-06-12",
+    "cantidad": 8,
+    "total": 16007824
+  },
+  {
+    "id": 198,
+    "clienteId": 73,
+    "productoId": 177,
+    "empleadoId": 7,
+    "fecha": "2024-05-04",
+    "cantidad": 8,
+    "total": 55259848
+  },
+  {
+    "id": 199,
+    "clienteId": 64,
+    "productoId": 81,
+    "empleadoId": 19,
+    "fecha": "2025-06-27",
+    "cantidad": 4,
+    "total": 23663772
+  },
+  {
+    "id": 200,
+    "clienteId": 111,
+    "productoId": 52,
+    "empleadoId": 74,
+    "fecha": "2024-07-10",
+    "cantidad": 8,
+    "total": 13544296
+  },
+  {
+    "id": 201,
+    "clienteId": 98,
+    "productoId": 181,
+    "empleadoId": 52,
+    "fecha": "2025-01-11",
+    "cantidad": 10,
+    "total": 55060100
+  },
+  {
+    "id": 202,
+    "clienteId": 180,
+    "productoId": 143,
+    "empleadoId": 183,
+    "fecha": "2024-07-23",
+    "cantidad": 9,
+    "total": 3787092
+  },
+  {
+    "id": 203,
+    "clienteId": 155,
+    "productoId": 72,
+    "empleadoId": 100,
+    "fecha": "2024-07-11",
+    "cantidad": 8,
+    "total": 1895832
+  },
+  {
+    "id": 204,
+    "clienteId": 49,
+    "productoId": 24,
+    "empleadoId": 174,
+    "fecha": "2025-10-29",
+    "cantidad": 5,
+    "total": 9943445
+  },
+  {
+    "id": 205,
+    "clienteId": 233,
+    "productoId": 70,
+    "empleadoId": 183,
+    "fecha": "2025-12-17",
+    "cantidad": 7,
+    "total": 34087606
+  },
+  {
+    "id": 206,
+    "clienteId": 138,
+    "productoId": 73,
+    "empleadoId": 194,
+    "fecha": "2025-11-24",
+    "cantidad": 4,
+    "total": 9445244
+  },
+  {
+    "id": 207,
+    "clienteId": 6,
+    "productoId": 170,
+    "empleadoId": 119,
+    "fecha": "2024-02-01",
+    "cantidad": 6,
+    "total": 22036638
+  },
+  {
+    "id": 208,
+    "clienteId": 211,
+    "productoId": 93,
+    "empleadoId": 57,
+    "fecha": "2025-07-04",
+    "cantidad": 5,
+    "total": 12826965
+  },
+  {
+    "id": 209,
+    "clienteId": 145,
+    "productoId": 70,
+    "empleadoId": 33,
+    "fecha": "2024-10-27",
+    "cantidad": 1,
+    "total": 4869658
+  },
+  {
+    "id": 210,
+    "clienteId": 231,
+    "productoId": 174,
+    "empleadoId": 111,
+    "fecha": "2025-03-11",
+    "cantidad": 9,
+    "total": 69748083
+  },
+  {
+    "id": 211,
+    "clienteId": 129,
+    "productoId": 186,
+    "empleadoId": 40,
+    "fecha": "2025-01-10",
+    "cantidad": 2,
+    "total": 2962496
+  },
+  {
+    "id": 212,
+    "clienteId": 99,
+    "productoId": 63,
+    "empleadoId": 6,
+    "fecha": "2024-08-06",
+    "cantidad": 9,
+    "total": 8911800
+  },
+  {
+    "id": 213,
+    "clienteId": 193,
+    "productoId": 7,
+    "empleadoId": 53,
+    "fecha": "2025-06-15",
+    "cantidad": 4,
+    "total": 8003912
+  },
+  {
+    "id": 214,
+    "clienteId": 26,
+    "productoId": 106,
+    "empleadoId": 176,
+    "fecha": "2024-05-16",
+    "cantidad": 8,
+    "total": 32835120
+  },
+  {
+    "id": 215,
+    "clienteId": 66,
+    "productoId": 100,
+    "empleadoId": 46,
+    "fecha": "2025-12-03",
+    "cantidad": 3,
+    "total": 13020963
+  },
+  {
+    "id": 216,
+    "clienteId": 152,
+    "productoId": 180,
+    "empleadoId": 110,
+    "fecha": "2025-06-13",
+    "cantidad": 8,
+    "total": 35786784
+  },
+  {
+    "id": 217,
+    "clienteId": 24,
+    "productoId": 6,
+    "empleadoId": 157,
+    "fecha": "2024-06-26",
+    "cantidad": 1,
+    "total": 4934989
+  },
+  {
+    "id": 218,
+    "clienteId": 26,
+    "productoId": 12,
+    "empleadoId": 46,
+    "fecha": "2025-09-05",
+    "cantidad": 10,
+    "total": 39095210
+  },
+  {
+    "id": 219,
+    "clienteId": 72,
+    "productoId": 58,
+    "empleadoId": 161,
+    "fecha": "2024-02-09",
+    "cantidad": 6,
+    "total": 19289400
+  },
+  {
+    "id": 220,
+    "clienteId": 128,
+    "productoId": 98,
+    "empleadoId": 2,
+    "fecha": "2025-10-25",
+    "cantidad": 1,
+    "total": 5728914
+  },
+  {
+    "id": 221,
+    "clienteId": 201,
+    "productoId": 184,
+    "empleadoId": 11,
+    "fecha": "2024-08-03",
+    "cantidad": 10,
+    "total": 18768230
+  },
+  {
+    "id": 222,
+    "clienteId": 34,
+    "productoId": 90,
+    "empleadoId": 188,
+    "fecha": "2024-01-25",
+    "cantidad": 6,
+    "total": 38654694
+  },
+  {
+    "id": 223,
+    "clienteId": 63,
+    "productoId": 152,
+    "empleadoId": 159,
+    "fecha": "2025-10-21",
+    "cantidad": 3,
+    "total": 19896168
+  },
+  {
+    "id": 224,
+    "clienteId": 243,
+    "productoId": 7,
+    "empleadoId": 183,
+    "fecha": "2025-04-07",
+    "cantidad": 6,
+    "total": 12005868
+  },
+  {
+    "id": 225,
+    "clienteId": 106,
+    "productoId": 160,
+    "empleadoId": 188,
+    "fecha": "2024-02-15",
+    "cantidad": 8,
+    "total": 56930024
+  },
+  {
+    "id": 226,
+    "clienteId": 192,
+    "productoId": 144,
+    "empleadoId": 46,
+    "fecha": "2024-09-10",
+    "cantidad": 9,
+    "total": 6995925
+  },
+  {
+    "id": 227,
+    "clienteId": 179,
+    "productoId": 20,
+    "empleadoId": 97,
+    "fecha": "2024-07-04",
+    "cantidad": 10,
+    "total": 58052070
+  },
+  {
+    "id": 228,
+    "clienteId": 60,
+    "productoId": 71,
+    "empleadoId": 145,
+    "fecha": "2024-11-24",
+    "cantidad": 3,
+    "total": 18220578
+  },
+  {
+    "id": 229,
+    "clienteId": 111,
+    "productoId": 120,
+    "empleadoId": 51,
+    "fecha": "2024-02-25",
+    "cantidad": 6,
+    "total": 11067096
+  },
+  {
+    "id": 230,
+    "clienteId": 200,
+    "productoId": 50,
+    "empleadoId": 141,
+    "fecha": "2024-07-16",
+    "cantidad": 3,
+    "total": 7395936
+  },
+  {
+    "id": 231,
+    "clienteId": 52,
+    "productoId": 138,
+    "empleadoId": 200,
+    "fecha": "2025-04-24",
+    "cantidad": 1,
+    "total": 7325588
+  },
+  {
+    "id": 232,
+    "clienteId": 17,
+    "productoId": 85,
+    "empleadoId": 66,
+    "fecha": "2024-12-29",
+    "cantidad": 4,
+    "total": 16905820
+  },
+  {
+    "id": 233,
+    "clienteId": 158,
+    "productoId": 34,
+    "empleadoId": 66,
+    "fecha": "2025-03-14",
+    "cantidad": 9,
+    "total": 686952
+  },
+  {
+    "id": 234,
+    "clienteId": 218,
+    "productoId": 173,
+    "empleadoId": 84,
+    "fecha": "2025-01-11",
+    "cantidad": 9,
+    "total": 47543751
+  },
+  {
+    "id": 235,
+    "clienteId": 247,
+    "productoId": 67,
+    "empleadoId": 179,
+    "fecha": "2024-04-21",
+    "cantidad": 8,
+    "total": 28387840
+  },
+  {
+    "id": 236,
+    "clienteId": 35,
+    "productoId": 83,
+    "empleadoId": 57,
+    "fecha": "2024-05-21",
+    "cantidad": 4,
+    "total": 31003272
+  },
+  {
+    "id": 237,
+    "clienteId": 114,
+    "productoId": 113,
+    "empleadoId": 132,
+    "fecha": "2025-05-25",
+    "cantidad": 8,
+    "total": 24546072
+  },
+  {
+    "id": 238,
+    "clienteId": 120,
+    "productoId": 74,
+    "empleadoId": 40,
+    "fecha": "2025-08-07",
+    "cantidad": 2,
+    "total": 867682
+  },
+  {
+    "id": 239,
+    "clienteId": 232,
+    "productoId": 101,
+    "empleadoId": 113,
+    "fecha": "2024-10-19",
+    "cantidad": 7,
+    "total": 11141424
+  },
+  {
+    "id": 240,
+    "clienteId": 162,
+    "productoId": 100,
+    "empleadoId": 171,
+    "fecha": "2025-11-25",
+    "cantidad": 4,
+    "total": 17361284
+  },
+  {
+    "id": 241,
+    "clienteId": 194,
+    "productoId": 35,
+    "empleadoId": 91,
+    "fecha": "2025-08-22",
+    "cantidad": 10,
+    "total": 75966270
+  },
+  {
+    "id": 242,
+    "clienteId": 153,
+    "productoId": 2,
+    "empleadoId": 148,
+    "fecha": "2025-11-26",
+    "cantidad": 5,
+    "total": 11534420
+  },
+  {
+    "id": 243,
+    "clienteId": 107,
+    "productoId": 10,
+    "empleadoId": 108,
+    "fecha": "2024-05-14",
+    "cantidad": 7,
+    "total": 25354560
+  },
+  {
+    "id": 244,
+    "clienteId": 6,
+    "productoId": 109,
+    "empleadoId": 15,
+    "fecha": "2024-02-29",
+    "cantidad": 7,
+    "total": 22480059
+  },
+  {
+    "id": 245,
+    "clienteId": 167,
+    "productoId": 81,
+    "empleadoId": 171,
+    "fecha": "2024-04-16",
+    "cantidad": 8,
+    "total": 47327544
+  },
+  {
+    "id": 246,
+    "clienteId": 151,
+    "productoId": 60,
+    "empleadoId": 190,
+    "fecha": "2024-07-03",
+    "cantidad": 9,
+    "total": 18014976
+  },
+  {
+    "id": 247,
+    "clienteId": 133,
+    "productoId": 29,
+    "empleadoId": 147,
+    "fecha": "2024-07-10",
+    "cantidad": 10,
+    "total": 5057310
+  },
+  {
+    "id": 248,
+    "clienteId": 148,
+    "productoId": 63,
+    "empleadoId": 21,
+    "fecha": "2024-12-08",
+    "cantidad": 4,
+    "total": 3960800
+  },
+  {
+    "id": 249,
+    "clienteId": 55,
+    "productoId": 64,
+    "empleadoId": 64,
+    "fecha": "2024-11-27",
+    "cantidad": 7,
+    "total": 17524479
+  },
+  {
+    "id": 250,
+    "clienteId": 94,
+    "productoId": 28,
+    "empleadoId": 16,
+    "fecha": "2025-04-16",
+    "cantidad": 8,
+    "total": 4714336
+  }
+]

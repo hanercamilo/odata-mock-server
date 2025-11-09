@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "nombre": "Javier Rivera",
+    "nit": "909377278",
+    "ciudad": "Santa Marta",
+    "contacto": "cliente1@mail.com"
+  },
+  {
+    "id": 2,
+    "nombre": "Nuria Ortiz",
+    "nit": "905477913",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente2@mail.com"
+  },
+  {
+    "id": 3,
+    "nombre": "Miriam Pérez",
+    "nit": "901052467",
+    "ciudad": "Medellín",
+    "contacto": "cliente3@mail.com"
+  },
+  {
+    "id": 4,
+    "nombre": "Global Sales S.A.",
+    "nit": "909737220",
+    "ciudad": "Medellín",
+    "contacto": "contacto@empresa4.com"
+  },
+  {
+    "id": 5,
+    "nombre": "Óscar Gutiérrez",
+    "nit": "901996244",
+    "ciudad": "Cartagena",
+    "contacto": "cliente5@mail.com"
+  },
+  {
+    "id": 6,
+    "nombre": "Pilar Medina",
+    "nit": "901805624",
+    "ciudad": "Riohacha",
+    "contacto": "cliente6@mail.com"
+  },
+  {
+    "id": 7,
+    "nombre": "Helena Ramírez",
+    "nit": "909631563",
+    "ciudad": "Pereira",
+    "contacto": "cliente7@mail.com"
+  },
+  {
+    "id": 8,
+    "nombre": "Projects Group SAS",
+    "nit": "901195605",
+    "ciudad": "Ibagué",
+    "contacto": "contacto@empresa8.com"
+  },
+  {
+    "id": 9,
+    "nombre": "Emilio Chávez",
+    "nit": "902458892",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente9@mail.com"
+  },
+  {
+    "id": 10,
+    "nombre": "Bautista Pérez",
+    "nit": "907777327",
+    "ciudad": "Leticia",
+    "contacto": "cliente10@mail.com"
+  },
+  {
+    "id": 11,
+    "nombre": "Silvia Ortiz",
+    "nit": "908857119",
+    "ciudad": "Riohacha",
+    "contacto": "cliente11@mail.com"
+  },
+  {
+    "id": 12,
+    "nombre": "Innovatech E.U.",
+    "nit": "905078928",
+    "ciudad": "Leticia",
+    "contacto": "contacto@empresa12.com"
+  },
+  {
+    "id": 13,
+    "nombre": "Diana García",
+    "nit": "907724583",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente13@mail.com"
+  },
+  {
+    "id": 14,
+    "nombre": "Ricardo López",
+    "nit": "906688988",
+    "ciudad": "Pasto",
+    "contacto": "cliente14@mail.com"
+  },
+  {
+    "id": 15,
+    "nombre": "Noah Jiménez",
+    "nit": "901290993",
+    "ciudad": "Manizales",
+    "contacto": "cliente15@mail.com"
+  },
+  {
+    "id": 16,
+    "nombre": "HR Solutions E.U.",
+    "nit": "906212036",
+    "ciudad": "Riohacha",
+    "contacto": "contacto@empresa16.com"
+  },
+  {
+    "id": 17,
+    "nombre": "Concepción Ortiz",
+    "nit": "906165066",
+    "ciudad": "Cali",
+    "contacto": "cliente17@mail.com"
+  },
+  {
+    "id": 18,
+    "nombre": "Nicole López",
+    "nit": "905047222",
+    "ciudad": "Riohacha",
+    "contacto": "cliente18@mail.com"
+  },
+  {
+    "id": 19,
+    "nombre": "Concepción Jiménez",
+    "nit": "902238247",
+    "ciudad": "Popayán",
+    "contacto": "cliente19@mail.com"
+  },
+  {
+    "id": 20,
+    "nombre": "Sales Force SAS",
+    "nit": "908131678",
+    "ciudad": "Leticia",
+    "contacto": "contacto@empresa20.com"
+  },
+  {
+    "id": 21,
+    "nombre": "Santino Romero",
+    "nit": "902283999",
+    "ciudad": "Sincelejo",
+    "contacto": "cliente21@mail.com"
+  },
+  {
+    "id": 22,
+    "nombre": "Helena García",
+    "nit": "907037820",
+    "ciudad": "Barranquilla",
+    "contacto": "cliente22@mail.com"
+  },
+  {
+    "id": 23,
+    "nombre": "Guillermo Martínez",
+    "nit": "901548328",
+    "ciudad": "Florencia",
+    "contacto": "cliente23@mail.com"
+  },
+  {
+    "id": 24,
+    "nombre": "Audit Partners E.U.",
+    "nit": "904377245",
+    "ciudad": "Quibdó",
+    "contacto": "contacto@empresa24.com"
+  },
+  {
+    "id": 25,
+    "nombre": "Erik Castillo",
+    "nit": "909959138",
+    "ciudad": "Pereira",
+    "contacto": "cliente25@mail.com"
+  },
+  {
+    "id": 26,
+    "nombre": "Olivia González",
+    "nit": "905565149",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente26@mail.com"
+  },
+  {
+    "id": 27,
+    "nombre": "Andrés Vargas",
+    "nit": "909111491",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente27@mail.com"
+  },
+  {
+    "id": 28,
+    "nombre": "People First LTDA",
+    "nit": "906568231",
+    "ciudad": "Cali",
+    "contacto": "contacto@empresa28.com"
+  },
+  {
+    "id": 29,
+    "nombre": "Verónica García",
+    "nit": "907990483",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente29@mail.com"
+  },
+  {
+    "id": 30,
+    "nombre": "Leonardo González",
+    "nit": "903586815",
+    "ciudad": "Manizales",
+    "contacto": "cliente30@mail.com"
+  },
+  {
+    "id": 31,
+    "nombre": "Diana Guerrero",
+    "nit": "906875105",
+    "ciudad": "Medellín",
+    "contacto": "cliente31@mail.com"
+  },
+  {
+    "id": 32,
+    "nombre": "Trade Solutions SAS",
+    "nit": "909274773",
+    "ciudad": "Riohacha",
+    "contacto": "contacto@empresa32.com"
+  },
+  {
+    "id": 33,
+    "nombre": "Daniela Vargas",
+    "nit": "908155268",
+    "ciudad": "Bogotá",
+    "contacto": "cliente33@mail.com"
+  },
+  {
+    "id": 34,
+    "nombre": "Maximiliano Pérez",
+    "nit": "906359161",
+    "ciudad": "Santa Marta",
+    "contacto": "cliente34@mail.com"
+  },
+  {
+    "id": 35,
+    "nombre": "Emma Pérez",
+    "nit": "908238784",
+    "ciudad": "Armenia",
+    "contacto": "cliente35@mail.com"
+  },
+  {
+    "id": 36,
+    "nombre": "Cloud Services S.A.",
+    "nit": "903044123",
+    "ciudad": "Manizales",
+    "contacto": "contacto@empresa36.com"
+  },
+  {
+    "id": 37,
+    "nombre": "Silvia Mendoza",
+    "nit": "908649287",
+    "ciudad": "Cali",
+    "contacto": "cliente37@mail.com"
+  },
+  {
+    "id": 38,
+    "nombre": "Rafael Rodríguez",
+    "nit": "908523026",
+    "ciudad": "Cartagena",
+    "contacto": "cliente38@mail.com"
+  },
+  {
+    "id": 39,
+    "nombre": "Ángel Castillo",
+    "nit": "908868365",
+    "ciudad": "Neiva",
+    "contacto": "cliente39@mail.com"
+  },
+  {
+    "id": 40,
+    "nombre": "Clinic Plus E.U.",
+    "nit": "904842425",
+    "ciudad": "Ibagué",
+    "contacto": "contacto@empresa40.com"
+  },
+  {
+    "id": 41,
+    "nombre": "Graciela Rodríguez",
+    "nit": "903365948",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente41@mail.com"
+  },
+  {
+    "id": 42,
+    "nombre": "Milton Rodríguez",
+    "nit": "901948419",
+    "ciudad": "Manizales",
+    "contacto": "cliente42@mail.com"
+  },
+  {
+    "id": 43,
+    "nombre": "Guillermo Romero",
+    "nit": "902125795",
+    "ciudad": "Barranquilla",
+    "contacto": "cliente43@mail.com"
+  },
+  {
+    "id": 44,
+    "nombre": "Sales Force LTDA",
+    "nit": "908118613",
+    "ciudad": "Cali",
+    "contacto": "contacto@empresa44.com"
+  },
+  {
+    "id": 45,
+    "nombre": "Patricia Torres",
+    "nit": "908875557",
+    "ciudad": "Neiva",
+    "contacto": "cliente45@mail.com"
+  },
+  {
+    "id": 46,
+    "nombre": "Antonio Ramírez",
+    "nit": "904424808",
+    "ciudad": "Pasto",
+    "contacto": "cliente46@mail.com"
+  },
+  {
+    "id": 47,
+    "nombre": "Soledad Rodríguez",
+    "nit": "903071621",
+    "ciudad": "Valledupar",
+    "contacto": "cliente47@mail.com"
+  },
+  {
+    "id": 48,
+    "nombre": "Recruiting Pro SAS",
+    "nit": "909988265",
+    "ciudad": "Leticia",
+    "contacto": "contacto@empresa48.com"
+  },
+  {
+    "id": 49,
+    "nombre": "Ezequiel Ramírez",
+    "nit": "902874972",
+    "ciudad": "Pereira",
+    "contacto": "cliente49@mail.com"
+  },
+  {
+    "id": 50,
+    "nombre": "Fernanda Rodríguez",
+    "nit": "906244368",
+    "ciudad": "Florencia",
+    "contacto": "cliente50@mail.com"
+  },
+  {
+    "id": 51,
+    "nombre": "Ana Gutiérrez",
+    "nit": "909916648",
+    "ciudad": "Quibdó",
+    "contacto": "cliente51@mail.com"
+  },
+  {
+    "id": 52,
+    "nombre": "Health Care LTDA",
+    "nit": "907593004",
+    "ciudad": "Montería",
+    "contacto": "contacto@empresa52.com"
+  },
+  {
+    "id": 53,
+    "nombre": "Antonio Cruz",
+    "nit": "907595030",
+    "ciudad": "Tunja",
+    "contacto": "cliente53@mail.com"
+  },
+  {
+    "id": 54,
+    "nombre": "Rubén Rodríguez",
+    "nit": "904437031",
+    "ciudad": "Armenia",
+    "contacto": "cliente54@mail.com"
+  },
+  {
+    "id": 55,
+    "nombre": "Victoria García",
+    "nit": "905139248",
+    "ciudad": "Manizales",
+    "contacto": "cliente55@mail.com"
+  },
+  {
+    "id": 56,
+    "nombre": "Build Masters E.U.",
+    "nit": "906364278",
+    "ciudad": "Pasto",
+    "contacto": "contacto@empresa56.com"
+  },
+  {
+    "id": 57,
+    "nombre": "Amparo Castillo",
+    "nit": "907938299",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente57@mail.com"
+  },
+  {
+    "id": 58,
+    "nombre": "Clara Flores",
+    "nit": "907966868",
+    "ciudad": "Pereira",
+    "contacto": "cliente58@mail.com"
+  },
+  {
+    "id": 59,
+    "nombre": "Enrique Rodríguez",
+    "nit": "907260915",
+    "ciudad": "Florencia",
+    "contacto": "cliente59@mail.com"
+  },
+  {
+    "id": 60,
+    "nombre": "Tech Solutions E.U.",
+    "nit": "905697775",
+    "ciudad": "Popayán",
+    "contacto": "contacto@empresa60.com"
+  },
+  {
+    "id": 61,
+    "nombre": "Esperanza Chávez",
+    "nit": "906653438",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente61@mail.com"
+  },
+  {
+    "id": 62,
+    "nombre": "Nicole Guerrero",
+    "nit": "907173191",
+    "ciudad": "Valledupar",
+    "contacto": "cliente62@mail.com"
+  },
+  {
+    "id": 63,
+    "nombre": "Felipe Gutiérrez",
+    "nit": "907762289",
+    "ciudad": "Ibagué",
+    "contacto": "cliente63@mail.com"
+  },
+  {
+    "id": 64,
+    "nombre": "Media Group LTDA",
+    "nit": "906633071",
+    "ciudad": "Quibdó",
+    "contacto": "contacto@empresa64.com"
+  },
+  {
+    "id": 65,
+    "nombre": "Dolores Flores",
+    "nit": "908725663",
+    "ciudad": "Pasto",
+    "contacto": "cliente65@mail.com"
+  },
+  {
+    "id": 66,
+    "nombre": "Margarita Martínez",
+    "nit": "901846360",
+    "ciudad": "Ibagué",
+    "contacto": "cliente66@mail.com"
+  },
+  {
+    "id": 67,
+    "nombre": "Paula Hernández",
+    "nit": "904879515",
+    "ciudad": "Armenia",
+    "contacto": "cliente67@mail.com"
+  },
+  {
+    "id": 68,
+    "nombre": "HR Solutions LTDA",
+    "nit": "909056428",
+    "ciudad": "Cúcuta",
+    "contacto": "contacto@empresa68.com"
+  },
+  {
+    "id": 69,
+    "nombre": "Nicolás Ramírez",
+    "nit": "909802260",
+    "ciudad": "Riohacha",
+    "contacto": "cliente69@mail.com"
+  },
+  {
+    "id": 70,
+    "nombre": "Mauricio Vargas",
+    "nit": "905377164",
+    "ciudad": "Neiva",
+    "contacto": "cliente70@mail.com"
+  },
+  {
+    "id": 71,
+    "nombre": "Hugo Castro",
+    "nit": "903569138",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente71@mail.com"
+  },
+  {
+    "id": 72,
+    "nombre": "Marketing Pro LTDA",
+    "nit": "905532502",
+    "ciudad": "Barranquilla",
+    "contacto": "contacto@empresa72.com"
+  },
+  {
+    "id": 73,
+    "nombre": "Natalia Torres",
+    "nit": "901626539",
+    "ciudad": "Valledupar",
+    "contacto": "cliente73@mail.com"
+  },
+  {
+    "id": 74,
+    "nombre": "Paz Vargas",
+    "nit": "904588211",
+    "ciudad": "Florencia",
+    "contacto": "cliente74@mail.com"
+  },
+  {
+    "id": 75,
+    "nombre": "Marc Medina",
+    "nit": "906780757",
+    "ciudad": "Neiva",
+    "contacto": "cliente75@mail.com"
+  },
+  {
+    "id": 76,
+    "nombre": "Engineering Works LTDA",
+    "nit": "901359875",
+    "ciudad": "Barranquilla",
+    "contacto": "contacto@empresa76.com"
+  },
+  {
+    "id": 77,
+    "nombre": "Pedro Álvarez",
+    "nit": "908899188",
+    "ciudad": "Valledupar",
+    "contacto": "cliente77@mail.com"
+  },
+  {
+    "id": 78,
+    "nombre": "Ángel Jiménez",
+    "nit": "906855512",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente78@mail.com"
+  },
+  {
+    "id": 79,
+    "nombre": "Antonio Torres",
+    "nit": "903309378",
+    "ciudad": "Armenia",
+    "contacto": "cliente79@mail.com"
+  },
+  {
+    "id": 80,
+    "nombre": "Tech Solutions LTDA",
+    "nit": "901454890",
+    "ciudad": "Armenia",
+    "contacto": "contacto@empresa80.com"
+  },
+  {
+    "id": 81,
+    "nombre": "Verónica Romero",
+    "nit": "902007915",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente81@mail.com"
+  },
+  {
+    "id": 82,
+    "nombre": "Sofía Medina",
+    "nit": "905095153",
+    "ciudad": "Pereira",
+    "contacto": "cliente82@mail.com"
+  },
+  {
+    "id": 83,
+    "nombre": "Gabriel Torres",
+    "nit": "906923015",
+    "ciudad": "Medellín",
+    "contacto": "cliente83@mail.com"
+  },
+  {
+    "id": 84,
+    "nombre": "App Developers LTDA",
+    "nit": "906928055",
+    "ciudad": "Manizales",
+    "contacto": "contacto@empresa84.com"
+  },
+  {
+    "id": 85,
+    "nombre": "Paulina Gutiérrez",
+    "nit": "907365273",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente85@mail.com"
+  },
+  {
+    "id": 86,
+    "nombre": "Ximena Castro",
+    "nit": "903924764",
+    "ciudad": "Medellín",
+    "contacto": "cliente86@mail.com"
+  },
+  {
+    "id": 87,
+    "nombre": "Natalia Rivera",
+    "nit": "907293306",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente87@mail.com"
+  },
+  {
+    "id": 88,
+    "nombre": "Justice Group S.A.",
+    "nit": "905117987",
+    "ciudad": "Cúcuta",
+    "contacto": "contacto@empresa88.com"
+  },
+  {
+    "id": 89,
+    "nombre": "Valentina Cruz",
+    "nit": "907844478",
+    "ciudad": "Pasto",
+    "contacto": "cliente89@mail.com"
+  },
+  {
+    "id": 90,
+    "nombre": "Manuel Flores",
+    "nit": "904414124",
+    "ciudad": "Cartagena",
+    "contacto": "cliente90@mail.com"
+  },
+  {
+    "id": 91,
+    "nombre": "Raúl Castillo",
+    "nit": "905615065",
+    "ciudad": "Armenia",
+    "contacto": "cliente91@mail.com"
+  },
+  {
+    "id": 92,
+    "nombre": "Wellness Center E.U.",
+    "nit": "902229418",
+    "ciudad": "Montería",
+    "contacto": "contacto@empresa92.com"
+  },
+  {
+    "id": 93,
+    "nombre": "Eva González",
+    "nit": "908570687",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente93@mail.com"
+  },
+  {
+    "id": 94,
+    "nombre": "Daniel Torres",
+    "nit": "908184681",
+    "ciudad": "Neiva",
+    "contacto": "cliente94@mail.com"
+  },
+  {
+    "id": 95,
+    "nombre": "Javier Díaz",
+    "nit": "906920475",
+    "ciudad": "Tunja",
+    "contacto": "cliente95@mail.com"
+  },
+  {
+    "id": 96,
+    "nombre": "Smart Systems E.U.",
+    "nit": "908341321",
+    "ciudad": "Cartagena",
+    "contacto": "contacto@empresa96.com"
+  },
+  {
+    "id": 97,
+    "nombre": "Renata Medina",
+    "nit": "908523956",
+    "ciudad": "Tunja",
+    "contacto": "cliente97@mail.com"
+  },
+  {
+    "id": 98,
+    "nombre": "Lucía Ramírez",
+    "nit": "906639236",
+    "ciudad": "Sincelejo",
+    "contacto": "cliente98@mail.com"
+  },
+  {
+    "id": 99,
+    "nombre": "Esperanza Morales",
+    "nit": "906484413",
+    "ciudad": "Ibagué",
+    "contacto": "cliente99@mail.com"
+  },
+  {
+    "id": 100,
+    "nombre": "Workforce Management SAS",
+    "nit": "907054490",
+    "ciudad": "Armenia",
+    "contacto": "contacto@empresa100.com"
+  },
+  {
+    "id": 101,
+    "nombre": "Mario Castillo",
+    "nit": "907123867",
+    "ciudad": "Montería",
+    "contacto": "cliente101@mail.com"
+  },
+  {
+    "id": 102,
+    "nombre": "Rafael Flores",
+    "nit": "906119398",
+    "ciudad": "Riohacha",
+    "contacto": "cliente102@mail.com"
+  },
+  {
+    "id": 103,
+    "nombre": "María Flores",
+    "nit": "909099927",
+    "ciudad": "Popayán",
+    "contacto": "cliente103@mail.com"
+  },
+  {
+    "id": 104,
+    "nombre": "Tax Advisors SAS",
+    "nit": "907593078",
+    "ciudad": "Cali",
+    "contacto": "contacto@empresa104.com"
+  },
+  {
+    "id": 105,
+    "nombre": "Mariana Sánchez",
+    "nit": "904488451",
+    "ciudad": "Popayán",
+    "contacto": "cliente105@mail.com"
+  },
+  {
+    "id": 106,
+    "nombre": "Amparo García",
+    "nit": "907990072",
+    "ciudad": "Ibagué",
+    "contacto": "cliente106@mail.com"
+  },
+  {
+    "id": 107,
+    "nombre": "Facundo Cruz",
+    "nit": "909542196",
+    "ciudad": "Montería",
+    "contacto": "cliente107@mail.com"
+  },
+  {
+    "id": 108,
+    "nombre": "Infrastructure Inc SAS",
+    "nit": "907311029",
+    "ciudad": "Florencia",
+    "contacto": "contacto@empresa108.com"
+  },
+  {
+    "id": 109,
+    "nombre": "Soledad Ortiz",
+    "nit": "907082616",
+    "ciudad": "Riohacha",
+    "contacto": "cliente109@mail.com"
+  },
+  {
+    "id": 110,
+    "nombre": "Emma Torres",
+    "nit": "906322651",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente110@mail.com"
+  },
+  {
+    "id": 111,
+    "nombre": "Agustín Romero",
+    "nit": "903383577",
+    "ciudad": "Pasto",
+    "contacto": "cliente111@mail.com"
+  },
+  {
+    "id": 112,
+    "nombre": "Cloud Services E.U.",
+    "nit": "906147896",
+    "ciudad": "Villavicencio",
+    "contacto": "contacto@empresa112.com"
+  },
+  {
+    "id": 113,
+    "nombre": "Daniela Chávez",
+    "nit": "904967665",
+    "ciudad": "Tunja",
+    "contacto": "cliente113@mail.com"
+  },
+  {
+    "id": 114,
+    "nombre": "Nicole Morales",
+    "nit": "909973487",
+    "ciudad": "Ibagué",
+    "contacto": "cliente114@mail.com"
+  },
+  {
+    "id": 115,
+    "nombre": "Rubén Reyes",
+    "nit": "903806945",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente115@mail.com"
+  },
+  {
+    "id": 116,
+    "nombre": "Law Partners SAS",
+    "nit": "903778920",
+    "ciudad": "Tunja",
+    "contacto": "contacto@empresa116.com"
+  },
+  {
+    "id": 117,
+    "nombre": "Mónica Ramírez",
+    "nit": "901851479",
+    "ciudad": "Tunja",
+    "contacto": "cliente117@mail.com"
+  },
+  {
+    "id": 118,
+    "nombre": "Lucía Sánchez",
+    "nit": "909462870",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente118@mail.com"
+  },
+  {
+    "id": 119,
+    "nombre": "Pablo Chávez",
+    "nit": "901037795",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente119@mail.com"
+  },
+  {
+    "id": 120,
+    "nombre": "Delivery Pro E.U.",
+    "nit": "905038191",
+    "ciudad": "Neiva",
+    "contacto": "contacto@empresa120.com"
+  },
+  {
+    "id": 121,
+    "nombre": "Norma Gómez",
+    "nit": "909063081",
+    "ciudad": "Sincelejo",
+    "contacto": "cliente121@mail.com"
+  },
+  {
+    "id": 122,
+    "nombre": "Esteban Cruz",
+    "nit": "901972069",
+    "ciudad": "Pasto",
+    "contacto": "cliente122@mail.com"
+  },
+  {
+    "id": 123,
+    "nombre": "Lucía Mendoza",
+    "nit": "903040249",
+    "ciudad": "Pasto",
+    "contacto": "cliente123@mail.com"
+  },
+  {
+    "id": 124,
+    "nombre": "Workforce Management LTDA",
+    "nit": "903920725",
+    "ciudad": "Pasto",
+    "contacto": "contacto@empresa124.com"
+  },
+  {
+    "id": 125,
+    "nombre": "Victoria Díaz",
+    "nit": "906836020",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente125@mail.com"
+  },
+  {
+    "id": 126,
+    "nombre": "Esperanza Pérez",
+    "nit": "901935935",
+    "ciudad": "Cartagena",
+    "contacto": "cliente126@mail.com"
+  },
+  {
+    "id": 127,
+    "nombre": "Marina Gómez",
+    "nit": "909550907",
+    "ciudad": "Valledupar",
+    "contacto": "cliente127@mail.com"
+  },
+  {
+    "id": 128,
+    "nombre": "Data Analytics E.U.",
+    "nit": "907300565",
+    "ciudad": "Valledupar",
+    "contacto": "contacto@empresa128.com"
+  },
+  {
+    "id": 129,
+    "nombre": "Gael Hernández",
+    "nit": "903066858",
+    "ciudad": "Armenia",
+    "contacto": "cliente129@mail.com"
+  },
+  {
+    "id": 130,
+    "nombre": "Emma Medina",
+    "nit": "909368242",
+    "ciudad": "Barranquilla",
+    "contacto": "cliente130@mail.com"
+  },
+  {
+    "id": 131,
+    "nombre": "Eduardo Rivera",
+    "nit": "902694417",
+    "ciudad": "Ibagué",
+    "contacto": "cliente131@mail.com"
+  },
+  {
+    "id": 132,
+    "nombre": "Capital Group E.U.",
+    "nit": "909124344",
+    "ciudad": "Santa Marta",
+    "contacto": "contacto@empresa132.com"
+  },
+  {
+    "id": 133,
+    "nombre": "Lucía Torres",
+    "nit": "902814837",
+    "ciudad": "Manizales",
+    "contacto": "cliente133@mail.com"
+  },
+  {
+    "id": 134,
+    "nombre": "Clara Guerrero",
+    "nit": "906036423",
+    "ciudad": "Cali",
+    "contacto": "cliente134@mail.com"
+  },
+  {
+    "id": 135,
+    "nombre": "Álvaro Vargas",
+    "nit": "902089262",
+    "ciudad": "Quibdó",
+    "contacto": "cliente135@mail.com"
+  },
+  {
+    "id": 136,
+    "nombre": "Design House LTDA",
+    "nit": "906092006",
+    "ciudad": "Florencia",
+    "contacto": "contacto@empresa136.com"
+  },
+  {
+    "id": 137,
+    "nombre": "Ezequiel Álvarez",
+    "nit": "901489783",
+    "ciudad": "Riohacha",
+    "contacto": "cliente137@mail.com"
+  },
+  {
+    "id": 138,
+    "nombre": "Mauricio Ramírez",
+    "nit": "909847213",
+    "ciudad": "Pasto",
+    "contacto": "cliente138@mail.com"
+  },
+  {
+    "id": 139,
+    "nombre": "Victoria Díaz",
+    "nit": "905340799",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente139@mail.com"
+  },
+  {
+    "id": 140,
+    "nombre": "Marketing Pro E.U.",
+    "nit": "908319887",
+    "ciudad": "Manizales",
+    "contacto": "contacto@empresa140.com"
+  },
+  {
+    "id": 141,
+    "nombre": "Francisco Romero",
+    "nit": "909903138",
+    "ciudad": "Ibagué",
+    "contacto": "cliente141@mail.com"
+  },
+  {
+    "id": 142,
+    "nombre": "Milton Martínez",
+    "nit": "904021100",
+    "ciudad": "Pasto",
+    "contacto": "cliente142@mail.com"
+  },
+  {
+    "id": 143,
+    "nombre": "Gabriela Sánchez",
+    "nit": "907661639",
+    "ciudad": "Barranquilla",
+    "contacto": "cliente143@mail.com"
+  },
+  {
+    "id": 144,
+    "nombre": "Cloud Services E.U.",
+    "nit": "902974240",
+    "ciudad": "Medellín",
+    "contacto": "contacto@empresa144.com"
+  },
+  {
+    "id": 145,
+    "nombre": "Héctor Álvarez",
+    "nit": "903906746",
+    "ciudad": "Cali",
+    "contacto": "cliente145@mail.com"
+  },
+  {
+    "id": 146,
+    "nombre": "Lucía Hernández",
+    "nit": "905232581",
+    "ciudad": "Bogotá",
+    "contacto": "cliente146@mail.com"
+  },
+  {
+    "id": 147,
+    "nombre": "Erik Flores",
+    "nit": "908042865",
+    "ciudad": "Pasto",
+    "contacto": "cliente147@mail.com"
+  },
+  {
+    "id": 148,
+    "nombre": "Supply Chain S.A.",
+    "nit": "902337268",
+    "ciudad": "Armenia",
+    "contacto": "contacto@empresa148.com"
+  },
+  {
+    "id": 149,
+    "nombre": "Ximena López",
+    "nit": "901809536",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente149@mail.com"
+  },
+  {
+    "id": 150,
+    "nombre": "Milton Ortiz",
+    "nit": "901312911",
+    "ciudad": "Valledupar",
+    "contacto": "cliente150@mail.com"
+  },
+  {
+    "id": 151,
+    "nombre": "Óscar Sánchez",
+    "nit": "905348560",
+    "ciudad": "Florencia",
+    "contacto": "cliente151@mail.com"
+  },
+  {
+    "id": 152,
+    "nombre": "Engineering Works SAS",
+    "nit": "906655742",
+    "ciudad": "Medellín",
+    "contacto": "contacto@empresa152.com"
+  },
+  {
+    "id": 153,
+    "nombre": "Irene Mendoza",
+    "nit": "904471160",
+    "ciudad": "Valledupar",
+    "contacto": "cliente153@mail.com"
+  },
+  {
+    "id": 154,
+    "nombre": "Sofía Gutiérrez",
+    "nit": "908015261",
+    "ciudad": "Medellín",
+    "contacto": "cliente154@mail.com"
+  },
+  {
+    "id": 155,
+    "nombre": "Franco Álvarez",
+    "nit": "903830690",
+    "ciudad": "Leticia",
+    "contacto": "cliente155@mail.com"
+  },
+  {
+    "id": 156,
+    "nombre": "Audit Partners E.U.",
+    "nit": "909675616",
+    "ciudad": "Bucaramanga",
+    "contacto": "contacto@empresa156.com"
+  },
+  {
+    "id": 157,
+    "nombre": "Mónica Reyes",
+    "nit": "909301149",
+    "ciudad": "Sincelejo",
+    "contacto": "cliente157@mail.com"
+  },
+  {
+    "id": 158,
+    "nombre": "Diego Chávez",
+    "nit": "907588097",
+    "ciudad": "Cartagena",
+    "contacto": "cliente158@mail.com"
+  },
+  {
+    "id": 159,
+    "nombre": "María Romero",
+    "nit": "902235672",
+    "ciudad": "Tunja",
+    "contacto": "cliente159@mail.com"
+  },
+  {
+    "id": 160,
+    "nombre": "Recruiting Pro SAS",
+    "nit": "902572511",
+    "ciudad": "Popayán",
+    "contacto": "contacto@empresa160.com"
+  },
+  {
+    "id": 161,
+    "nombre": "Lorenzo Gutiérrez",
+    "nit": "903263695",
+    "ciudad": "Leticia",
+    "contacto": "cliente161@mail.com"
+  },
+  {
+    "id": 162,
+    "nombre": "Óscar Reyes",
+    "nit": "907331690",
+    "ciudad": "Tunja",
+    "contacto": "cliente162@mail.com"
+  },
+  {
+    "id": 163,
+    "nombre": "Pedro Torres",
+    "nit": "907662272",
+    "ciudad": "Bogotá",
+    "contacto": "cliente163@mail.com"
+  },
+  {
+    "id": 164,
+    "nombre": "Recruiting Pro SAS",
+    "nit": "908256328",
+    "ciudad": "Cúcuta",
+    "contacto": "contacto@empresa164.com"
+  },
+  {
+    "id": 165,
+    "nombre": "Ignacio Álvarez",
+    "nit": "906151684",
+    "ciudad": "Santa Marta",
+    "contacto": "cliente165@mail.com"
+  },
+  {
+    "id": 166,
+    "nombre": "Mónica Castillo",
+    "nit": "903509019",
+    "ciudad": "Bogotá",
+    "contacto": "cliente166@mail.com"
+  },
+  {
+    "id": 167,
+    "nombre": "Carmen Gutiérrez",
+    "nit": "904420416",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente167@mail.com"
+  },
+  {
+    "id": 168,
+    "nombre": "Creative Studio LTDA",
+    "nit": "909716903",
+    "ciudad": "Armenia",
+    "contacto": "contacto@empresa168.com"
+  },
+  {
+    "id": 169,
+    "nombre": "Raquel Vargas",
+    "nit": "905590801",
+    "ciudad": "Neiva",
+    "contacto": "cliente169@mail.com"
+  },
+  {
+    "id": 170,
+    "nombre": "Verónica Vargas",
+    "nit": "906920216",
+    "ciudad": "Florencia",
+    "contacto": "cliente170@mail.com"
+  },
+  {
+    "id": 171,
+    "nombre": "Paola Guerrero",
+    "nit": "906348811",
+    "ciudad": "Valledupar",
+    "contacto": "cliente171@mail.com"
+  },
+  {
+    "id": 172,
+    "nombre": "Wellness Center LTDA",
+    "nit": "906504089",
+    "ciudad": "Riohacha",
+    "contacto": "contacto@empresa172.com"
+  },
+  {
+    "id": 173,
+    "nombre": "Natalia Guerrero",
+    "nit": "904760535",
+    "ciudad": "Bogotá",
+    "contacto": "cliente173@mail.com"
+  },
+  {
+    "id": 174,
+    "nombre": "Emilio Sánchez",
+    "nit": "906737752",
+    "ciudad": "Cali",
+    "contacto": "cliente174@mail.com"
+  },
+  {
+    "id": 175,
+    "nombre": "Felipe González",
+    "nit": "902002319",
+    "ciudad": "Florencia",
+    "contacto": "cliente175@mail.com"
+  },
+  {
+    "id": 176,
+    "nombre": "Health Care SAS",
+    "nit": "904543788",
+    "ciudad": "Tunja",
+    "contacto": "contacto@empresa176.com"
+  },
+  {
+    "id": 177,
+    "nombre": "Ángel Ortiz",
+    "nit": "908310497",
+    "ciudad": "Neiva",
+    "contacto": "cliente177@mail.com"
+  },
+  {
+    "id": 178,
+    "nombre": "Beatriz Álvarez",
+    "nit": "902426011",
+    "ciudad": "Medellín",
+    "contacto": "cliente178@mail.com"
+  },
+  {
+    "id": 179,
+    "nombre": "Carolina Gutiérrez",
+    "nit": "909214026",
+    "ciudad": "Cartagena",
+    "contacto": "cliente179@mail.com"
+  },
+  {
+    "id": 180,
+    "nombre": "Digital Corp E.U.",
+    "nit": "901613969",
+    "ciudad": "Quibdó",
+    "contacto": "contacto@empresa180.com"
+  },
+  {
+    "id": 181,
+    "nombre": "Carmen Chávez",
+    "nit": "906822097",
+    "ciudad": "Quibdó",
+    "contacto": "cliente181@mail.com"
+  },
+  {
+    "id": 182,
+    "nombre": "Maximiliano Rivera",
+    "nit": "905074017",
+    "ciudad": "Valledupar",
+    "contacto": "cliente182@mail.com"
+  },
+  {
+    "id": 183,
+    "nombre": "Rosa Hernández",
+    "nit": "908839225",
+    "ciudad": "Ibagué",
+    "contacto": "cliente183@mail.com"
+  },
+  {
+    "id": 184,
+    "nombre": "Talent Finders E.U.",
+    "nit": "903335173",
+    "ciudad": "Bogotá",
+    "contacto": "contacto@empresa184.com"
+  },
+  {
+    "id": 185,
+    "nombre": "Cristóbal Flores",
+    "nit": "906324323",
+    "ciudad": "Barranquilla",
+    "contacto": "cliente185@mail.com"
+  },
+  {
+    "id": 186,
+    "nombre": "Graciela Vargas",
+    "nit": "902015441",
+    "ciudad": "Cartagena",
+    "contacto": "cliente186@mail.com"
+  },
+  {
+    "id": 187,
+    "nombre": "Thiago Castillo",
+    "nit": "909455697",
+    "ciudad": "Popayán",
+    "contacto": "cliente187@mail.com"
+  },
+  {
+    "id": 188,
+    "nombre": "Cyber Security S.A.",
+    "nit": "907251687",
+    "ciudad": "Pasto",
+    "contacto": "contacto@empresa188.com"
+  },
+  {
+    "id": 189,
+    "nombre": "Juan Pérez",
+    "nit": "909985053",
+    "ciudad": "Cartagena",
+    "contacto": "cliente189@mail.com"
+  },
+  {
+    "id": 190,
+    "nombre": "Jorge Gómez",
+    "nit": "905736385",
+    "ciudad": "Leticia",
+    "contacto": "cliente190@mail.com"
+  },
+  {
+    "id": 191,
+    "nombre": "Verónica Guerrero",
+    "nit": "909836186",
+    "ciudad": "Valledupar",
+    "contacto": "cliente191@mail.com"
+  },
+  {
+    "id": 192,
+    "nombre": "Cloud Services LTDA",
+    "nit": "905979800",
+    "ciudad": "Medellín",
+    "contacto": "contacto@empresa192.com"
+  },
+  {
+    "id": 193,
+    "nombre": "Héctor Hernández",
+    "nit": "902668734",
+    "ciudad": "Medellín",
+    "contacto": "cliente193@mail.com"
+  },
+  {
+    "id": 194,
+    "nombre": "Tomás Torres",
+    "nit": "909867508",
+    "ciudad": "Ibagué",
+    "contacto": "cliente194@mail.com"
+  },
+  {
+    "id": 195,
+    "nombre": "Thiago Jiménez",
+    "nit": "906823402",
+    "ciudad": "Riohacha",
+    "contacto": "cliente195@mail.com"
+  },
+  {
+    "id": 196,
+    "nombre": "Hospital Group S.A.",
+    "nit": "901175025",
+    "ciudad": "Tunja",
+    "contacto": "contacto@empresa196.com"
+  },
+  {
+    "id": 197,
+    "nombre": "Susana López",
+    "nit": "907057205",
+    "ciudad": "Riohacha",
+    "contacto": "cliente197@mail.com"
+  },
+  {
+    "id": 198,
+    "nombre": "Álvaro Rivera",
+    "nit": "903586502",
+    "ciudad": "Leticia",
+    "contacto": "cliente198@mail.com"
+  },
+  {
+    "id": 199,
+    "nombre": "Rodrigo Jiménez",
+    "nit": "904353175",
+    "ciudad": "Quibdó",
+    "contacto": "cliente199@mail.com"
+  },
+  {
+    "id": 200,
+    "nombre": "Delivery Pro S.A.",
+    "nit": "904033980",
+    "ciudad": "Riohacha",
+    "contacto": "contacto@empresa200.com"
+  },
+  {
+    "id": 201,
+    "nombre": "Emma García",
+    "nit": "905727981",
+    "ciudad": "Ibagué",
+    "contacto": "cliente201@mail.com"
+  },
+  {
+    "id": 202,
+    "nombre": "Jaime Morales",
+    "nit": "905715690",
+    "ciudad": "Valledupar",
+    "contacto": "cliente202@mail.com"
+  },
+  {
+    "id": 203,
+    "nombre": "Matías Rivera",
+    "nit": "907731103",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente203@mail.com"
+  },
+  {
+    "id": 204,
+    "nombre": "Digital Corp SAS",
+    "nit": "905687900",
+    "ciudad": "Armenia",
+    "contacto": "contacto@empresa204.com"
+  },
+  {
+    "id": 205,
+    "nombre": "Soledad Romero",
+    "nit": "906834691",
+    "ciudad": "Pasto",
+    "contacto": "cliente205@mail.com"
+  },
+  {
+    "id": 206,
+    "nombre": "Elena Gómez",
+    "nit": "901217646",
+    "ciudad": "Quibdó",
+    "contacto": "cliente206@mail.com"
+  },
+  {
+    "id": 207,
+    "nombre": "Luz Pérez",
+    "nit": "909086138",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente207@mail.com"
+  },
+  {
+    "id": 208,
+    "nombre": "Brand Builders E.U.",
+    "nit": "905564743",
+    "ciudad": "Pasto",
+    "contacto": "contacto@empresa208.com"
+  },
+  {
+    "id": 209,
+    "nombre": "Margarita Gutiérrez",
+    "nit": "903464778",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente209@mail.com"
+  },
+  {
+    "id": 210,
+    "nombre": "Diego Medina",
+    "nit": "905467552",
+    "ciudad": "Neiva",
+    "contacto": "cliente210@mail.com"
+  },
+  {
+    "id": 211,
+    "nombre": "Cecilia Flores",
+    "nit": "908261708",
+    "ciudad": "Cali",
+    "contacto": "cliente211@mail.com"
+  },
+  {
+    "id": 212,
+    "nombre": "Smart Systems S.A.",
+    "nit": "908127918",
+    "ciudad": "Leticia",
+    "contacto": "contacto@empresa212.com"
+  },
+  {
+    "id": 213,
+    "nombre": "Ignacio Díaz",
+    "nit": "907939995",
+    "ciudad": "Tunja",
+    "contacto": "cliente213@mail.com"
+  },
+  {
+    "id": 214,
+    "nombre": "César Álvarez",
+    "nit": "903074442",
+    "ciudad": "Medellín",
+    "contacto": "cliente214@mail.com"
+  },
+  {
+    "id": 215,
+    "nombre": "César Gutiérrez",
+    "nit": "908379922",
+    "ciudad": "Barranquilla",
+    "contacto": "cliente215@mail.com"
+  },
+  {
+    "id": 216,
+    "nombre": "Construction Co E.U.",
+    "nit": "909943351",
+    "ciudad": "Ibagué",
+    "contacto": "contacto@empresa216.com"
+  },
+  {
+    "id": 217,
+    "nombre": "Francisco Sánchez",
+    "nit": "906538685",
+    "ciudad": "Riohacha",
+    "contacto": "cliente217@mail.com"
+  },
+  {
+    "id": 218,
+    "nombre": "Álvaro Ortiz",
+    "nit": "909898737",
+    "ciudad": "Sincelejo",
+    "contacto": "cliente218@mail.com"
+  },
+  {
+    "id": 219,
+    "nombre": "Mauricio Díaz",
+    "nit": "902232665",
+    "ciudad": "Pasto",
+    "contacto": "cliente219@mail.com"
+  },
+  {
+    "id": 220,
+    "nombre": "Cloud Services LTDA",
+    "nit": "906856484",
+    "ciudad": "Neiva",
+    "contacto": "contacto@empresa220.com"
+  },
+  {
+    "id": 221,
+    "nombre": "Silvia Martínez",
+    "nit": "908797803",
+    "ciudad": "Popayán",
+    "contacto": "cliente221@mail.com"
+  },
+  {
+    "id": 222,
+    "nombre": "Fernanda Rivera",
+    "nit": "907959835",
+    "ciudad": "Quibdó",
+    "contacto": "cliente222@mail.com"
+  },
+  {
+    "id": 223,
+    "nombre": "Francisco Rivera",
+    "nit": "909124880",
+    "ciudad": "Montería",
+    "contacto": "cliente223@mail.com"
+  },
+  {
+    "id": 224,
+    "nombre": "Hospital Group S.A.",
+    "nit": "906112323",
+    "ciudad": "Bucaramanga",
+    "contacto": "contacto@empresa224.com"
+  },
+  {
+    "id": 225,
+    "nombre": "Valeria Torres",
+    "nit": "907853491",
+    "ciudad": "Medellín",
+    "contacto": "cliente225@mail.com"
+  },
+  {
+    "id": 226,
+    "nombre": "Adrián Álvarez",
+    "nit": "908398060",
+    "ciudad": "Montería",
+    "contacto": "cliente226@mail.com"
+  },
+  {
+    "id": 227,
+    "nombre": "Marcela Castillo",
+    "nit": "908165700",
+    "ciudad": "Cúcuta",
+    "contacto": "cliente227@mail.com"
+  },
+  {
+    "id": 228,
+    "nombre": "Web Masters E.U.",
+    "nit": "907598575",
+    "ciudad": "Bogotá",
+    "contacto": "contacto@empresa228.com"
+  },
+  {
+    "id": 229,
+    "nombre": "Victoria Chávez",
+    "nit": "904866605",
+    "ciudad": "Ibagué",
+    "contacto": "cliente229@mail.com"
+  },
+  {
+    "id": 230,
+    "nombre": "Santino Torres",
+    "nit": "905234343",
+    "ciudad": "Medellín",
+    "contacto": "cliente230@mail.com"
+  },
+  {
+    "id": 231,
+    "nombre": "Mauricio Romero",
+    "nit": "908464393",
+    "ciudad": "Valledupar",
+    "contacto": "cliente231@mail.com"
+  },
+  {
+    "id": 232,
+    "nombre": "Delivery Pro S.A.",
+    "nit": "905533757",
+    "ciudad": "Armenia",
+    "contacto": "contacto@empresa232.com"
+  },
+  {
+    "id": 233,
+    "nombre": "Ramón Castro",
+    "nit": "901036577",
+    "ciudad": "Leticia",
+    "contacto": "cliente233@mail.com"
+  },
+  {
+    "id": 234,
+    "nombre": "Benjamín Medina",
+    "nit": "902620512",
+    "ciudad": "Neiva",
+    "contacto": "cliente234@mail.com"
+  },
+  {
+    "id": 235,
+    "nombre": "Natalia Romero",
+    "nit": "907440406",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente235@mail.com"
+  },
+  {
+    "id": 236,
+    "nombre": "Talent Finders LTDA",
+    "nit": "907830012",
+    "ciudad": "Ibagué",
+    "contacto": "contacto@empresa236.com"
+  },
+  {
+    "id": 237,
+    "nombre": "Olivia Pérez",
+    "nit": "904232690",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente237@mail.com"
+  },
+  {
+    "id": 238,
+    "nombre": "Fernanda López",
+    "nit": "903919294",
+    "ciudad": "Villavicencio",
+    "contacto": "cliente238@mail.com"
+  },
+  {
+    "id": 239,
+    "nombre": "Felipe Martínez",
+    "nit": "909718561",
+    "ciudad": "Bucaramanga",
+    "contacto": "cliente239@mail.com"
+  },
+  {
+    "id": 240,
+    "nombre": "Cargo Masters LTDA",
+    "nit": "901783072",
+    "ciudad": "Ibagué",
+    "contacto": "contacto@empresa240.com"
+  },
+  {
+    "id": 241,
+    "nombre": "Nuria González",
+    "nit": "908727488",
+    "ciudad": "Quibdó",
+    "contacto": "cliente241@mail.com"
+  },
+  {
+    "id": 242,
+    "nombre": "Carlos Chávez",
+    "nit": "908008554",
+    "ciudad": "Sincelejo",
+    "contacto": "cliente242@mail.com"
+  },
+  {
+    "id": 243,
+    "nombre": "Simón Medina",
+    "nit": "908451338",
+    "ciudad": "Manizales",
+    "contacto": "cliente243@mail.com"
+  },
+  {
+    "id": 244,
+    "nombre": "Accounting Services E.U.",
+    "nit": "909232727",
+    "ciudad": "Bogotá",
+    "contacto": "contacto@empresa244.com"
+  },
+  {
+    "id": 245,
+    "nombre": "Marina Ruiz",
+    "nit": "907833257",
+    "ciudad": "Bogotá",
+    "contacto": "cliente245@mail.com"
+  },
+  {
+    "id": 246,
+    "nombre": "Erik Ortiz",
+    "nit": "906168247",
+    "ciudad": "Bogotá",
+    "contacto": "cliente246@mail.com"
+  },
+  {
+    "id": 247,
+    "nombre": "Camilo Jiménez",
+    "nit": "903277631",
+    "ciudad": "Tunja",
+    "contacto": "cliente247@mail.com"
+  },
+  {
+    "id": 248,
+    "nombre": "AI Solutions LTDA",
+    "nit": "903884584",
+    "ciudad": "Tunja",
+    "contacto": "contacto@empresa248.com"
+  },
+  {
+    "id": 249,
+    "nombre": "Noa Díaz",
+    "nit": "908318302",
+    "ciudad": "Riohacha",
+    "contacto": "cliente249@mail.com"
+  },
+  {
+    "id": 250,
+    "nombre": "Inmaculada Castro",
+    "nit": "904593845",
+    "ciudad": "Florencia",
+    "contacto": "cliente250@mail.com"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "codigo": "CC",
+    "descripcion": "Cédula de Ciudadanía"
+  },
+  {
+    "id": 2,
+    "codigo": "TI",
+    "descripcion": "Tarjeta de Identidad"
+  },
+  {
+    "id": 3,
+    "codigo": "CE",
+    "descripcion": "Cédula de Extranjería"
+  },
+  {
+    "id": 4,
+    "codigo": "NIT",
+    "descripcion": "Número de Identificación Tributaria"
+  }
+]

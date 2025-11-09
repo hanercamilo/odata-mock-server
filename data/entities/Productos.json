@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop HP",
+    "categoria": "Computadores",
+    "precio": 7803110,
+    "stock": 36
+  },
+  {
+    "id": 2,
+    "nombre": "Laptop Dell",
+    "categoria": "Computadores",
+    "precio": 2306884,
+    "stock": 52
+  },
+  {
+    "id": 3,
+    "nombre": "Laptop Lenovo",
+    "categoria": "Computadores",
+    "precio": 1500041,
+    "stock": 21
+  },
+  {
+    "id": 4,
+    "nombre": "MacBook Pro",
+    "categoria": "Computadores",
+    "precio": 6318243,
+    "stock": 76
+  },
+  {
+    "id": 5,
+    "nombre": "MacBook Air",
+    "categoria": "Computadores",
+    "precio": 757599,
+    "stock": 56
+  },
+  {
+    "id": 6,
+    "nombre": "iMac",
+    "categoria": "Computadores",
+    "precio": 4934989,
+    "stock": 13
+  },
+  {
+    "id": 7,
+    "nombre": "PC Gamer",
+    "categoria": "Computadores",
+    "precio": 2000978,
+    "stock": 21
+  },
+  {
+    "id": 8,
+    "nombre": "Workstation",
+    "categoria": "Computadores",
+    "precio": 5442454,
+    "stock": 77
+  },
+  {
+    "id": 9,
+    "nombre": "Monitor Samsung 24\"",
+    "categoria": "Monitores",
+    "precio": 6283033,
+    "stock": 11
+  },
+  {
+    "id": 10,
+    "nombre": "Monitor LG 27\"",
+    "categoria": "Monitores",
+    "precio": 3622080,
+    "stock": 61
+  },
+  {
+    "id": 11,
+    "nombre": "Monitor Dell UltraSharp",
+    "categoria": "Monitores",
+    "precio": 4637872,
+    "stock": 38
+  },
+  {
+    "id": 12,
+    "nombre": "Monitor Asus Gaming",
+    "categoria": "Monitores",
+    "precio": 3909521,
+    "stock": 88
+  },
+  {
+    "id": 13,
+    "nombre": "Monitor BenQ",
+    "categoria": "Monitores",
+    "precio": 3451965,
+    "stock": 97
+  },
+  {
+    "id": 14,
+    "nombre": "Monitor AOC",
+    "categoria": "Monitores",
+    "precio": 1271925,
+    "stock": 94
+  },
+  {
+    "id": 15,
+    "nombre": "Mouse Logitech",
+    "categoria": "Periféricos",
+    "precio": 5714779,
+    "stock": 6
+  },
+  {
+    "id": 16,
+    "nombre": "Mouse Razer",
+    "categoria": "Periféricos",
+    "precio": 1268869,
+    "stock": 15
+  },
+  {
+    "id": 17,
+    "nombre": "Teclado Mecánico",
+    "categoria": "Periféricos",
+    "precio": 6263005,
+    "stock": 50
+  },
+  {
+    "id": 18,
+    "nombre": "Teclado Inalámbrico",
+    "categoria": "Periféricos",
+    "precio": 6626098,
+    "stock": 69
+  },
+  {
+    "id": 19,
+    "nombre": "Webcam HD",
+    "categoria": "Periféricos",
+    "precio": 6400382,
+    "stock": 78
+  },
+  {
+    "id": 20,
+    "nombre": "Audífonos Gaming",
+    "categoria": "Periféricos",
+    "precio": 5805207,
+    "stock": 17
+  },
+  {
+    "id": 21,
+    "nombre": "Micrófono USB",
+    "categoria": "Periféricos",
+    "precio": 5624844,
+    "stock": 42
+  },
+  {
+    "id": 22,
+    "nombre": "Disco SSD 500GB",
+    "categoria": "Almacenamiento",
+    "precio": 1824351,
+    "stock": 14
+  },
+  {
+    "id": 23,
+    "nombre": "Disco SSD 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 6688957,
+    "stock": 70
+  },
+  {
+    "id": 24,
+    "nombre": "Disco HDD 2TB",
+    "categoria": "Almacenamiento",
+    "precio": 1988689,
+    "stock": 84
+  },
+  {
+    "id": 25,
+    "nombre": "Memoria USB 64GB",
+    "categoria": "Almacenamiento",
+    "precio": 1316999,
+    "stock": 48
+  },
+  {
+    "id": 26,
+    "nombre": "Tarjeta SD 128GB",
+    "categoria": "Almacenamiento",
+    "precio": 7402857,
+    "stock": 69
+  },
+  {
+    "id": 27,
+    "nombre": "NAS 4TB",
+    "categoria": "Almacenamiento",
+    "precio": 4953904,
+    "stock": 33
+  },
+  {
+    "id": 28,
+    "nombre": "Router WiFi 6",
+    "categoria": "Networking",
+    "precio": 589292,
+    "stock": 76
+  },
+  {
+    "id": 29,
+    "nombre": "Switch 24 puertos",
+    "categoria": "Networking",
+    "precio": 505731,
+    "stock": 49
+  },
+  {
+    "id": 30,
+    "nombre": "Access Point",
+    "categoria": "Networking",
+    "precio": 2230093,
+    "stock": 7
+  },
+  {
+    "id": 31,
+    "nombre": "Firewall",
+    "categoria": "Networking",
+    "precio": 4550915,
+    "stock": 44
+  },
+  {
+    "id": 32,
+    "nombre": "Módem Fibra",
+    "categoria": "Networking",
+    "precio": 597099,
+    "stock": 27
+  },
+  {
+    "id": 33,
+    "nombre": "Cable Cat6",
+    "categoria": "Networking",
+    "precio": 2719125,
+    "stock": 14
+  },
+  {
+    "id": 34,
+    "nombre": "Silla Ergonómica",
+    "categoria": "Oficina",
+    "precio": 76328,
+    "stock": 39
+  },
+  {
+    "id": 35,
+    "nombre": "Escritorio Ajustable",
+    "categoria": "Oficina",
+    "precio": 7596627,
+    "stock": 75
+  },
+  {
+    "id": 36,
+    "nombre": "Lámpara LED",
+    "categoria": "Oficina",
+    "precio": 6849886,
+    "stock": 4
+  },
+  {
+    "id": 37,
+    "nombre": "Organizador",
+    "categoria": "Oficina",
+    "precio": 2243971,
+    "stock": 90
+  },
+  {
+    "id": 38,
+    "nombre": "Soporte Monitor",
+    "categoria": "Oficina",
+    "precio": 5361766,
+    "stock": 4
+  },
+  {
+    "id": 39,
+    "nombre": "Reposapiés",
+    "categoria": "Oficina",
+    "precio": 6610089,
+    "stock": 2
+  },
+  {
+    "id": 40,
+    "nombre": "Impresora Láser",
+    "categoria": "Impresión",
+    "precio": 5908718,
+    "stock": 36
+  },
+  {
+    "id": 41,
+    "nombre": "Impresora Multifuncional",
+    "categoria": "Impresión",
+    "precio": 1832197,
+    "stock": 19
+  },
+  {
+    "id": 42,
+    "nombre": "Scanner",
+    "categoria": "Impresión",
+    "precio": 4156484,
+    "stock": 15
+  },
+  {
+    "id": 43,
+    "nombre": "Plotter",
+    "categoria": "Impresión",
+    "precio": 5329100,
+    "stock": 68
+  },
+  {
+    "id": 44,
+    "nombre": "Tóner Negro",
+    "categoria": "Impresión",
+    "precio": 1077438,
+    "stock": 28
+  },
+  {
+    "id": 45,
+    "nombre": "Papel Carta",
+    "categoria": "Impresión",
+    "precio": 5492521,
+    "stock": 13
+  },
+  {
+    "id": 46,
+    "nombre": "Licencia Office 365",
+    "categoria": "Software",
+    "precio": 2821499,
+    "stock": 7
+  },
+  {
+    "id": 47,
+    "nombre": "Licencia Windows",
+    "categoria": "Software",
+    "precio": 1080939,
+    "stock": 77
+  },
+  {
+    "id": 48,
+    "nombre": "Adobe Creative Cloud",
+    "categoria": "Software",
+    "precio": 199335,
+    "stock": 9
+  },
+  {
+    "id": 49,
+    "nombre": "Antivirus",
+    "categoria": "Software",
+    "precio": 4240080,
+    "stock": 2
+  },
+  {
+    "id": 50,
+    "nombre": "VPN Premium",
+    "categoria": "Software",
+    "precio": 2465312,
+    "stock": 31
+  },
+  {
+    "id": 51,
+    "nombre": "Backup Cloud",
+    "categoria": "Software",
+    "precio": 1791753,
+    "stock": 20
+  },
+  {
+    "id": 52,
+    "nombre": "Servidor Rack 1U",
+    "categoria": "Servidores",
+    "precio": 1693037,
+    "stock": 84
+  },
+  {
+    "id": 53,
+    "nombre": "Servidor Torre",
+    "categoria": "Servidores",
+    "precio": 6893271,
+    "stock": 48
+  },
+  {
+    "id": 54,
+    "nombre": "UPS 1500VA",
+    "categoria": "Servidores",
+    "precio": 7688692,
+    "stock": 77
+  },
+  {
+    "id": 55,
+    "nombre": "PDU Rack",
+    "categoria": "Servidores",
+    "precio": 4030108,
+    "stock": 96
+  },
+  {
+    "id": 56,
+    "nombre": "Gabinete 42U",
+    "categoria": "Servidores",
+    "precio": 2521294,
+    "stock": 29
+  },
+  {
+    "id": 57,
+    "nombre": "Patch Panel",
+    "categoria": "Servidores",
+    "precio": 6169026,
+    "stock": 32
+  },
+  {
+    "id": 58,
+    "nombre": "iPhone 15",
+    "categoria": "Smartphones",
+    "precio": 3214900,
+    "stock": 81
+  },
+  {
+    "id": 59,
+    "nombre": "Samsung Galaxy S24",
+    "categoria": "Smartphones",
+    "precio": 2345578,
+    "stock": 18
+  },
+  {
+    "id": 60,
+    "nombre": "Xiaomi Redmi",
+    "categoria": "Smartphones",
+    "precio": 2001664,
+    "stock": 70
+  },
+  {
+    "id": 61,
+    "nombre": "Motorola Edge",
+    "categoria": "Smartphones",
+    "precio": 2083556,
+    "stock": 74
+  },
+  {
+    "id": 62,
+    "nombre": "OnePlus 12",
+    "categoria": "Smartphones",
+    "precio": 1026895,
+    "stock": 28
+  },
+  {
+    "id": 63,
+    "nombre": "Google Pixel",
+    "categoria": "Smartphones",
+    "precio": 990200,
+    "stock": 84
+  },
+  {
+    "id": 64,
+    "nombre": "Laptop HP",
+    "categoria": "Computadores",
+    "precio": 2503497,
+    "stock": 15
+  },
+  {
+    "id": 65,
+    "nombre": "Laptop Dell",
+    "categoria": "Computadores",
+    "precio": 1024413,
+    "stock": 20
+  },
+  {
+    "id": 66,
+    "nombre": "Laptop Lenovo",
+    "categoria": "Computadores",
+    "precio": 4488595,
+    "stock": 28
+  },
+  {
+    "id": 67,
+    "nombre": "MacBook Pro",
+    "categoria": "Computadores",
+    "precio": 3548480,
+    "stock": 77
+  },
+  {
+    "id": 68,
+    "nombre": "MacBook Air",
+    "categoria": "Computadores",
+    "precio": 4677087,
+    "stock": 48
+  },
+  {
+    "id": 69,
+    "nombre": "iMac",
+    "categoria": "Computadores",
+    "precio": 4711300,
+    "stock": 97
+  },
+  {
+    "id": 70,
+    "nombre": "PC Gamer",
+    "categoria": "Computadores",
+    "precio": 4869658,
+    "stock": 90
+  },
+  {
+    "id": 71,
+    "nombre": "Workstation",
+    "categoria": "Computadores",
+    "precio": 6073526,
+    "stock": 69
+  },
+  {
+    "id": 72,
+    "nombre": "Monitor Samsung 24\"",
+    "categoria": "Monitores",
+    "precio": 236979,
+    "stock": 36
+  },
+  {
+    "id": 73,
+    "nombre": "Monitor LG 27\"",
+    "categoria": "Monitores",
+    "precio": 2361311,
+    "stock": 53
+  },
+  {
+    "id": 74,
+    "nombre": "Monitor Dell UltraSharp",
+    "categoria": "Monitores",
+    "precio": 433841,
+    "stock": 56
+  },
+  {
+    "id": 75,
+    "nombre": "Monitor Asus Gaming",
+    "categoria": "Monitores",
+    "precio": 2919284,
+    "stock": 39
+  },
+  {
+    "id": 76,
+    "nombre": "Monitor BenQ",
+    "categoria": "Monitores",
+    "precio": 5483062,
+    "stock": 92
+  },
+  {
+    "id": 77,
+    "nombre": "Monitor AOC",
+    "categoria": "Monitores",
+    "precio": 3109353,
+    "stock": 80
+  },
+  {
+    "id": 78,
+    "nombre": "Mouse Logitech",
+    "categoria": "Periféricos",
+    "precio": 2536788,
+    "stock": 57
+  },
+  {
+    "id": 79,
+    "nombre": "Mouse Razer",
+    "categoria": "Periféricos",
+    "precio": 7202378,
+    "stock": 57
+  },
+  {
+    "id": 80,
+    "nombre": "Teclado Mecánico",
+    "categoria": "Periféricos",
+    "precio": 1912178,
+    "stock": 64
+  },
+  {
+    "id": 81,
+    "nombre": "Teclado Inalámbrico",
+    "categoria": "Periféricos",
+    "precio": 5915943,
+    "stock": 44
+  },
+  {
+    "id": 82,
+    "nombre": "Webcam HD",
+    "categoria": "Periféricos",
+    "precio": 3735630,
+    "stock": 30
+  },
+  {
+    "id": 83,
+    "nombre": "Audífonos Gaming",
+    "categoria": "Periféricos",
+    "precio": 7750818,
+    "stock": 56
+  },
+  {
+    "id": 84,
+    "nombre": "Micrófono USB",
+    "categoria": "Periféricos",
+    "precio": 3038724,
+    "stock": 51
+  },
+  {
+    "id": 85,
+    "nombre": "Disco SSD 500GB",
+    "categoria": "Almacenamiento",
+    "precio": 4226455,
+    "stock": 78
+  },
+  {
+    "id": 86,
+    "nombre": "Disco SSD 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 1997080,
+    "stock": 97
+  },
+  {
+    "id": 87,
+    "nombre": "Disco HDD 2TB",
+    "categoria": "Almacenamiento",
+    "precio": 7916828,
+    "stock": 10
+  },
+  {
+    "id": 88,
+    "nombre": "Memoria USB 64GB",
+    "categoria": "Almacenamiento",
+    "precio": 546561,
+    "stock": 10
+  },
+  {
+    "id": 89,
+    "nombre": "Tarjeta SD 128GB",
+    "categoria": "Almacenamiento",
+    "precio": 5629387,
+    "stock": 1
+  },
+  {
+    "id": 90,
+    "nombre": "NAS 4TB",
+    "categoria": "Almacenamiento",
+    "precio": 6442449,
+    "stock": 4
+  },
+  {
+    "id": 91,
+    "nombre": "Router WiFi 6",
+    "categoria": "Networking",
+    "precio": 5528544,
+    "stock": 14
+  },
+  {
+    "id": 92,
+    "nombre": "Switch 24 puertos",
+    "categoria": "Networking",
+    "precio": 293037,
+    "stock": 63
+  },
+  {
+    "id": 93,
+    "nombre": "Access Point",
+    "categoria": "Networking",
+    "precio": 2565393,
+    "stock": 9
+  },
+  {
+    "id": 94,
+    "nombre": "Firewall",
+    "categoria": "Networking",
+    "precio": 6622106,
+    "stock": 10
+  },
+  {
+    "id": 95,
+    "nombre": "Módem Fibra",
+    "categoria": "Networking",
+    "precio": 6415793,
+    "stock": 88
+  },
+  {
+    "id": 96,
+    "nombre": "Cable Cat6",
+    "categoria": "Networking",
+    "precio": 6278557,
+    "stock": 80
+  },
+  {
+    "id": 97,
+    "nombre": "Silla Ergonómica",
+    "categoria": "Oficina",
+    "precio": 1664774,
+    "stock": 90
+  },
+  {
+    "id": 98,
+    "nombre": "Escritorio Ajustable",
+    "categoria": "Oficina",
+    "precio": 5728914,
+    "stock": 69
+  },
+  {
+    "id": 99,
+    "nombre": "Lámpara LED",
+    "categoria": "Oficina",
+    "precio": 5819182,
+    "stock": 8
+  },
+  {
+    "id": 100,
+    "nombre": "Organizador",
+    "categoria": "Oficina",
+    "precio": 4340321,
+    "stock": 58
+  },
+  {
+    "id": 101,
+    "nombre": "Soporte Monitor",
+    "categoria": "Oficina",
+    "precio": 1591632,
+    "stock": 15
+  },
+  {
+    "id": 102,
+    "nombre": "Reposapiés",
+    "categoria": "Oficina",
+    "precio": 4662545,
+    "stock": 20
+  },
+  {
+    "id": 103,
+    "nombre": "Impresora Láser",
+    "categoria": "Impresión",
+    "precio": 6677211,
+    "stock": 70
+  },
+  {
+    "id": 104,
+    "nombre": "Impresora Multifuncional",
+    "categoria": "Impresión",
+    "precio": 1918631,
+    "stock": 20
+  },
+  {
+    "id": 105,
+    "nombre": "Scanner",
+    "categoria": "Impresión",
+    "precio": 1839571,
+    "stock": 54
+  },
+  {
+    "id": 106,
+    "nombre": "Plotter",
+    "categoria": "Impresión",
+    "precio": 4104390,
+    "stock": 84
+  },
+  {
+    "id": 107,
+    "nombre": "Tóner Negro",
+    "categoria": "Impresión",
+    "precio": 3282255,
+    "stock": 1
+  },
+  {
+    "id": 108,
+    "nombre": "Papel Carta",
+    "categoria": "Impresión",
+    "precio": 4341337,
+    "stock": 35
+  },
+  {
+    "id": 109,
+    "nombre": "Licencia Office 365",
+    "categoria": "Software",
+    "precio": 3211437,
+    "stock": 42
+  },
+  {
+    "id": 110,
+    "nombre": "Licencia Windows",
+    "categoria": "Software",
+    "precio": 5687577,
+    "stock": 27
+  },
+  {
+    "id": 111,
+    "nombre": "Adobe Creative Cloud",
+    "categoria": "Software",
+    "precio": 7872593,
+    "stock": 2
+  },
+  {
+    "id": 112,
+    "nombre": "Antivirus",
+    "categoria": "Software",
+    "precio": 3237685,
+    "stock": 40
+  },
+  {
+    "id": 113,
+    "nombre": "VPN Premium",
+    "categoria": "Software",
+    "precio": 3068259,
+    "stock": 14
+  },
+  {
+    "id": 114,
+    "nombre": "Backup Cloud",
+    "categoria": "Software",
+    "precio": 1313112,
+    "stock": 84
+  },
+  {
+    "id": 115,
+    "nombre": "Servidor Rack 1U",
+    "categoria": "Servidores",
+    "precio": 6989825,
+    "stock": 99
+  },
+  {
+    "id": 116,
+    "nombre": "Servidor Torre",
+    "categoria": "Servidores",
+    "precio": 2785287,
+    "stock": 69
+  },
+  {
+    "id": 117,
+    "nombre": "UPS 1500VA",
+    "categoria": "Servidores",
+    "precio": 4176191,
+    "stock": 0
+  },
+  {
+    "id": 118,
+    "nombre": "PDU Rack",
+    "categoria": "Servidores",
+    "precio": 1892134,
+    "stock": 21
+  },
+  {
+    "id": 119,
+    "nombre": "Gabinete 42U",
+    "categoria": "Servidores",
+    "precio": 5119751,
+    "stock": 0
+  },
+  {
+    "id": 120,
+    "nombre": "Patch Panel",
+    "categoria": "Servidores",
+    "precio": 1844516,
+    "stock": 83
+  },
+  {
+    "id": 121,
+    "nombre": "iPhone 15",
+    "categoria": "Smartphones",
+    "precio": 3475128,
+    "stock": 86
+  },
+  {
+    "id": 122,
+    "nombre": "Samsung Galaxy S24",
+    "categoria": "Smartphones",
+    "precio": 3767542,
+    "stock": 34
+  },
+  {
+    "id": 123,
+    "nombre": "Xiaomi Redmi",
+    "categoria": "Smartphones",
+    "precio": 7962364,
+    "stock": 15
+  },
+  {
+    "id": 124,
+    "nombre": "Motorola Edge",
+    "categoria": "Smartphones",
+    "precio": 6448263,
+    "stock": 32
+  },
+  {
+    "id": 125,
+    "nombre": "OnePlus 12",
+    "categoria": "Smartphones",
+    "precio": 6435625,
+    "stock": 25
+  },
+  {
+    "id": 126,
+    "nombre": "Google Pixel",
+    "categoria": "Smartphones",
+    "precio": 7305288,
+    "stock": 94
+  },
+  {
+    "id": 127,
+    "nombre": "Laptop HP",
+    "categoria": "Computadores",
+    "precio": 6735548,
+    "stock": 58
+  },
+  {
+    "id": 128,
+    "nombre": "Laptop Dell",
+    "categoria": "Computadores",
+    "precio": 834565,
+    "stock": 68
+  },
+  {
+    "id": 129,
+    "nombre": "Laptop Lenovo",
+    "categoria": "Computadores",
+    "precio": 193723,
+    "stock": 52
+  },
+  {
+    "id": 130,
+    "nombre": "MacBook Pro",
+    "categoria": "Computadores",
+    "precio": 5150066,
+    "stock": 51
+  },
+  {
+    "id": 131,
+    "nombre": "MacBook Air",
+    "categoria": "Computadores",
+    "precio": 1578406,
+    "stock": 38
+  },
+  {
+    "id": 132,
+    "nombre": "iMac",
+    "categoria": "Computadores",
+    "precio": 2502119,
+    "stock": 98
+  },
+  {
+    "id": 133,
+    "nombre": "PC Gamer",
+    "categoria": "Computadores",
+    "precio": 3705263,
+    "stock": 3
+  },
+  {
+    "id": 134,
+    "nombre": "Workstation",
+    "categoria": "Computadores",
+    "precio": 2949052,
+    "stock": 21
+  },
+  {
+    "id": 135,
+    "nombre": "Monitor Samsung 24\"",
+    "categoria": "Monitores",
+    "precio": 3952006,
+    "stock": 22
+  },
+  {
+    "id": 136,
+    "nombre": "Monitor LG 27\"",
+    "categoria": "Monitores",
+    "precio": 4425705,
+    "stock": 83
+  },
+  {
+    "id": 137,
+    "nombre": "Monitor Dell UltraSharp",
+    "categoria": "Monitores",
+    "precio": 3586036,
+    "stock": 70
+  },
+  {
+    "id": 138,
+    "nombre": "Monitor Asus Gaming",
+    "categoria": "Monitores",
+    "precio": 7325588,
+    "stock": 70
+  },
+  {
+    "id": 139,
+    "nombre": "Monitor BenQ",
+    "categoria": "Monitores",
+    "precio": 4503287,
+    "stock": 32
+  },
+  {
+    "id": 140,
+    "nombre": "Monitor AOC",
+    "categoria": "Monitores",
+    "precio": 6775676,
+    "stock": 0
+  },
+  {
+    "id": 141,
+    "nombre": "Mouse Logitech",
+    "categoria": "Periféricos",
+    "precio": 1591348,
+    "stock": 87
+  },
+  {
+    "id": 142,
+    "nombre": "Mouse Razer",
+    "categoria": "Periféricos",
+    "precio": 3794253,
+    "stock": 46
+  },
+  {
+    "id": 143,
+    "nombre": "Teclado Mecánico",
+    "categoria": "Periféricos",
+    "precio": 420788,
+    "stock": 2
+  },
+  {
+    "id": 144,
+    "nombre": "Teclado Inalámbrico",
+    "categoria": "Periféricos",
+    "precio": 777325,
+    "stock": 2
+  },
+  {
+    "id": 145,
+    "nombre": "Webcam HD",
+    "categoria": "Periféricos",
+    "precio": 406440,
+    "stock": 44
+  },
+  {
+    "id": 146,
+    "nombre": "Audífonos Gaming",
+    "categoria": "Periféricos",
+    "precio": 6223593,
+    "stock": 32
+  },
+  {
+    "id": 147,
+    "nombre": "Micrófono USB",
+    "categoria": "Periféricos",
+    "precio": 3129962,
+    "stock": 97
+  },
+  {
+    "id": 148,
+    "nombre": "Disco SSD 500GB",
+    "categoria": "Almacenamiento",
+    "precio": 3898463,
+    "stock": 31
+  },
+  {
+    "id": 149,
+    "nombre": "Disco SSD 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 7871668,
+    "stock": 18
+  },
+  {
+    "id": 150,
+    "nombre": "Disco HDD 2TB",
+    "categoria": "Almacenamiento",
+    "precio": 5444382,
+    "stock": 22
+  },
+  {
+    "id": 151,
+    "nombre": "Memoria USB 64GB",
+    "categoria": "Almacenamiento",
+    "precio": 1114099,
+    "stock": 97
+  },
+  {
+    "id": 152,
+    "nombre": "Tarjeta SD 128GB",
+    "categoria": "Almacenamiento",
+    "precio": 6632056,
+    "stock": 73
+  },
+  {
+    "id": 153,
+    "nombre": "NAS 4TB",
+    "categoria": "Almacenamiento",
+    "precio": 4121679,
+    "stock": 1
+  },
+  {
+    "id": 154,
+    "nombre": "Router WiFi 6",
+    "categoria": "Networking",
+    "precio": 1381141,
+    "stock": 22
+  },
+  {
+    "id": 155,
+    "nombre": "Switch 24 puertos",
+    "categoria": "Networking",
+    "precio": 2471442,
+    "stock": 66
+  },
+  {
+    "id": 156,
+    "nombre": "Access Point",
+    "categoria": "Networking",
+    "precio": 368629,
+    "stock": 71
+  },
+  {
+    "id": 157,
+    "nombre": "Firewall",
+    "categoria": "Networking",
+    "precio": 1635400,
+    "stock": 74
+  },
+  {
+    "id": 158,
+    "nombre": "Módem Fibra",
+    "categoria": "Networking",
+    "precio": 6794584,
+    "stock": 85
+  },
+  {
+    "id": 159,
+    "nombre": "Cable Cat6",
+    "categoria": "Networking",
+    "precio": 2110561,
+    "stock": 38
+  },
+  {
+    "id": 160,
+    "nombre": "Silla Ergonómica",
+    "categoria": "Oficina",
+    "precio": 7116253,
+    "stock": 64
+  },
+  {
+    "id": 161,
+    "nombre": "Escritorio Ajustable",
+    "categoria": "Oficina",
+    "precio": 7621033,
+    "stock": 64
+  },
+  {
+    "id": 162,
+    "nombre": "Lámpara LED",
+    "categoria": "Oficina",
+    "precio": 2957434,
+    "stock": 13
+  },
+  {
+    "id": 163,
+    "nombre": "Organizador",
+    "categoria": "Oficina",
+    "precio": 3823404,
+    "stock": 91
+  },
+  {
+    "id": 164,
+    "nombre": "Soporte Monitor",
+    "categoria": "Oficina",
+    "precio": 4253264,
+    "stock": 61
+  },
+  {
+    "id": 165,
+    "nombre": "Reposapiés",
+    "categoria": "Oficina",
+    "precio": 5810787,
+    "stock": 82
+  },
+  {
+    "id": 166,
+    "nombre": "Impresora Láser",
+    "categoria": "Impresión",
+    "precio": 3411461,
+    "stock": 59
+  },
+  {
+    "id": 167,
+    "nombre": "Impresora Multifuncional",
+    "categoria": "Impresión",
+    "precio": 2564278,
+    "stock": 53
+  },
+  {
+    "id": 168,
+    "nombre": "Scanner",
+    "categoria": "Impresión",
+    "precio": 3825024,
+    "stock": 90
+  },
+  {
+    "id": 169,
+    "nombre": "Plotter",
+    "categoria": "Impresión",
+    "precio": 363050,
+    "stock": 94
+  },
+  {
+    "id": 170,
+    "nombre": "Tóner Negro",
+    "categoria": "Impresión",
+    "precio": 3672773,
+    "stock": 88
+  },
+  {
+    "id": 171,
+    "nombre": "Papel Carta",
+    "categoria": "Impresión",
+    "precio": 849637,
+    "stock": 27
+  },
+  {
+    "id": 172,
+    "nombre": "Licencia Office 365",
+    "categoria": "Software",
+    "precio": 4655061,
+    "stock": 95
+  },
+  {
+    "id": 173,
+    "nombre": "Licencia Windows",
+    "categoria": "Software",
+    "precio": 5282639,
+    "stock": 93
+  },
+  {
+    "id": 174,
+    "nombre": "Adobe Creative Cloud",
+    "categoria": "Software",
+    "precio": 7749787,
+    "stock": 54
+  },
+  {
+    "id": 175,
+    "nombre": "Antivirus",
+    "categoria": "Software",
+    "precio": 7216798,
+    "stock": 100
+  },
+  {
+    "id": 176,
+    "nombre": "VPN Premium",
+    "categoria": "Software",
+    "precio": 6999957,
+    "stock": 94
+  },
+  {
+    "id": 177,
+    "nombre": "Backup Cloud",
+    "categoria": "Software",
+    "precio": 6907481,
+    "stock": 24
+  },
+  {
+    "id": 178,
+    "nombre": "Servidor Rack 1U",
+    "categoria": "Servidores",
+    "precio": 6665180,
+    "stock": 0
+  },
+  {
+    "id": 179,
+    "nombre": "Servidor Torre",
+    "categoria": "Servidores",
+    "precio": 1227622,
+    "stock": 41
+  },
+  {
+    "id": 180,
+    "nombre": "UPS 1500VA",
+    "categoria": "Servidores",
+    "precio": 4473348,
+    "stock": 8
+  },
+  {
+    "id": 181,
+    "nombre": "PDU Rack",
+    "categoria": "Servidores",
+    "precio": 5506010,
+    "stock": 11
+  },
+  {
+    "id": 182,
+    "nombre": "Gabinete 42U",
+    "categoria": "Servidores",
+    "precio": 5020610,
+    "stock": 23
+  },
+  {
+    "id": 183,
+    "nombre": "Patch Panel",
+    "categoria": "Servidores",
+    "precio": 3398640,
+    "stock": 71
+  },
+  {
+    "id": 184,
+    "nombre": "iPhone 15",
+    "categoria": "Smartphones",
+    "precio": 1876823,
+    "stock": 78
+  },
+  {
+    "id": 185,
+    "nombre": "Samsung Galaxy S24",
+    "categoria": "Smartphones",
+    "precio": 3402382,
+    "stock": 80
+  },
+  {
+    "id": 186,
+    "nombre": "Xiaomi Redmi",
+    "categoria": "Smartphones",
+    "precio": 1481248,
+    "stock": 55
+  },
+  {
+    "id": 187,
+    "nombre": "Motorola Edge",
+    "categoria": "Smartphones",
+    "precio": 6512561,
+    "stock": 62
+  },
+  {
+    "id": 188,
+    "nombre": "OnePlus 12",
+    "categoria": "Smartphones",
+    "precio": 747241,
+    "stock": 86
+  },
+  {
+    "id": 189,
+    "nombre": "Google Pixel",
+    "categoria": "Smartphones",
+    "precio": 4822107,
+    "stock": 30
+  },
+  {
+    "id": 190,
+    "nombre": "Laptop HP",
+    "categoria": "Computadores",
+    "precio": 2798375,
+    "stock": 19
+  },
+  {
+    "id": 191,
+    "nombre": "Laptop Dell",
+    "categoria": "Computadores",
+    "precio": 7369140,
+    "stock": 55
+  },
+  {
+    "id": 192,
+    "nombre": "Laptop Lenovo",
+    "categoria": "Computadores",
+    "precio": 5332535,
+    "stock": 87
+  },
+  {
+    "id": 193,
+    "nombre": "MacBook Pro",
+    "categoria": "Computadores",
+    "precio": 4671592,
+    "stock": 32
+  },
+  {
+    "id": 194,
+    "nombre": "MacBook Air",
+    "categoria": "Computadores",
+    "precio": 2050502,
+    "stock": 38
+  },
+  {
+    "id": 195,
+    "nombre": "iMac",
+    "categoria": "Computadores",
+    "precio": 1402738,
+    "stock": 88
+  },
+  {
+    "id": 196,
+    "nombre": "PC Gamer",
+    "categoria": "Computadores",
+    "precio": 2644648,
+    "stock": 66
+  },
+  {
+    "id": 197,
+    "nombre": "Workstation",
+    "categoria": "Computadores",
+    "precio": 7049811,
+    "stock": 4
+  },
+  {
+    "id": 198,
+    "nombre": "Monitor Samsung 24\"",
+    "categoria": "Monitores",
+    "precio": 3071469,
+    "stock": 42
+  },
+  {
+    "id": 199,
+    "nombre": "Monitor LG 27\"",
+    "categoria": "Monitores",
+    "precio": 1195524,
+    "stock": 35
+  },
+  {
+    "id": 200,
+    "nombre": "Monitor Dell UltraSharp",
+    "categoria": "Monitores",
+    "precio": 2587063,
+    "stock": 2
+  }
+]
