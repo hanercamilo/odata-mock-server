@@ -28,6 +28,8 @@ function loadXML(file) {
 
 const odataInfo = loadJSON("odata.json", false);
 
+app.get("/", (req, res) => res.json({ "availableRoutes": ["/odata", "/odata/$metadata", "/odata/[EntityName]"] }));
+
 app.get("/odata", (req, res) => res.json(odataInfo));
 
 app.get("/odata/\\$metadata", (req, res) => {
@@ -381,11 +383,24 @@ app.get("/odata/:entity", (req, res) => {
     });
   }
 
-  // $count
-  const response = { value: data };
-  if (query.$count === "true") {
+  // $count y respuesta final OData
+  const proto = req.headers["x-forwarded-proto"] || req.protocol;
+  const baseUrl = `${proto}://${req.get("host")}`;
+
+  const response = {
+    "@odata.context": `${baseUrl}/odata/$metadata#${entity}`
+  };
+
+  if (String(query.$count).toLowerCase() === "true") {
     response["@odata.count"] = data.length;
   }
+
+  response.value = data;
+
+  res.set({
+    "OData-Version": "4.0",
+    "Content-Type": "application/json; odata.metadata=minimal; charset=utf-8"
+  });
 
   res.json(response);
 });
