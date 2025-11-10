@@ -133,6 +133,8 @@ app.get("/odata/:entity", (req, res) => {
     }
   }
 
+  const totalCount = data.length;
+
   // $orderby
   if (query.$orderby) {
     const [field, direction] = query.$orderby.split(" ");
@@ -392,7 +394,7 @@ app.get("/odata/:entity", (req, res) => {
   };
 
   if (String(query.$count).toLowerCase() === "true") {
-    response["@odata.count"] = data.length;
+    response["@odata.count"] = totalCount;
   }
 
   response.value = data;
